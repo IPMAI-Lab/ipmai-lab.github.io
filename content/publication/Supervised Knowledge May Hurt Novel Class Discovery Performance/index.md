@@ -9,7 +9,7 @@ authors:
  - Haojin Yang
  - Wanli Ouyang  
 publication_types: ["2"]  
-publication: Transactions on Machine Learning Research(TMLR) 2022  
+publication: Transactions on Machine Learning Research(TMLR) 2023
 publication_types_name: Journal paper
 url_pdf: https://openreview.net/pdf?id=oqOBTo5uWD 
 topic_types: ["2"]
