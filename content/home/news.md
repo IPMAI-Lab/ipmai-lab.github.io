@@ -11,6 +11,12 @@ subtitle = ""
 direction_img = "boards_new.jpg"
 
 [[item]]
+    title = "[18-05-2023] One paper accepted by Interspeech."
+    subtitle = "Congrats to Guangyao and Yixin!"
+    subtitle_color = ""
+    link = ""
+
+[[item]]
     title = "[11-03-2023] Prof. Di Hu won the 2022 WuWenJun AI Excellent Young Scientist Award!"
     subtitle = ""
     subtitle_color = ""
