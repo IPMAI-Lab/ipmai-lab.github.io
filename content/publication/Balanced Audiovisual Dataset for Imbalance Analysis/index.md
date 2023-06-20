@@ -7,10 +7,10 @@ authors:
  - Changqing Zhang
  - Di Hu 
 publication_types: ["3"]  
-publication: arXiv
-publication_types_name: Preprint
+publication: Computer Vision and Pattern Recognition(CVPR) Workshop 2023
+publication_types_name: Conference Paper
 url_pdf: https://arxiv.org/abs/2302.10912
 topic_types: ["2"]
 topic_types_name: topic_scene_understanding
-rating : 2023_02_06
+rating : 2023_06_17
 ---  

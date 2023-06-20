@@ -23,10 +23,10 @@ direction_img = "boards_new.jpg"
     link = ""
 
 [[item]]
-    title = "[22-02-2023] Zongzhao joins GeWu Lab as Ph.D student."
-    subtitle = "Welcome Zongzhao!"
-    subtitle_color = ""
-    link = ""
+    title = "[12-03-2023] One paper accepted by ICME."
+    subtitle = "Congrats to Wenke and Xincheng!"
+    subtitle_color = "#808080"
+    link = "publication"
 
 [[item]]
     title = "[16-02-2023] One paper accepted by ICASSP."

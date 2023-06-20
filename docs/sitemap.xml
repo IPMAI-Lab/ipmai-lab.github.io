@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -144,6 +144,10 @@
   
   <url>
     <loc>/dataset/disco/</loc>
+  </url>
+  
+  <url>
+    <loc>/dataset/01_lfav/</loc>
   </url>
   
   <url>
@@ -419,7 +423,7 @@
   </url>
   
   <url>
-    <loc>/dataset/music-avqa/</loc>
+    <loc>/dataset/02_music-avqa/</loc>
   </url>
   
   <url>
@@ -472,6 +476,10 @@
   
   <url>
     <loc>/publication/revisiting-pre-training-in-audio-visual-learning/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/robust-cross-modal-knowledge-distillation-for-unconstrained-videos/</loc>
   </url>
   
   <url>
@@ -551,6 +559,10 @@
   </url>
   
   <url>
+    <loc>/publication/towards-long-form-audio-visual-video-understanding/</loc>
+  </url>
+  
+  <url>
     <loc>/publication/unsupervised-multi-source-domain-adaptation-for-person-re-identification/</loc>
   </url>
   
@@ -568,6 +580,10 @@
   
   <url>
     <loc>/authors/wenke-xia/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/wenxuan-hou/</loc>
   </url>
   
   <url>

@@ -3,12 +3,13 @@
 {{ partial "page_header.html" . }}
 
 <div class="universal-wrapper">
+
   {{ with .Content }}
   <div class="article-style">{{ . }}</div>
   {{ end }}
 
   {{ $paginator := .Paginate .Data.Pages }}
-  {{ range sort $paginator.Pages ".Params.weight" }}
+  {{ range (sort $paginator.Pages ".Params.rating").Reverse}}
   <div>
     {{ partial "li_compact_for_dataset" . }}
   </div>
