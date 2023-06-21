@@ -4,6 +4,7 @@ summary: To our knowledge, the audiovisual aerial scene recognition task has not
 dataset: true
 # Optional external URL for project (replaces project detail page).
 external_link: https://zenodo.org/record/3828124
+weight: 3
 image:
   caption: 
   focal_point: Smart

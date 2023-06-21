@@ -9,5 +9,6 @@ image:
   caption: 
   focal_point: Smart
 
+weight: 5
 rating: 2021_10_1
 ---

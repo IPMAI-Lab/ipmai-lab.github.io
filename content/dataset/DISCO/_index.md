@@ -8,7 +8,7 @@ external_link: https://zenodo.org/record/3828468
 people: ["Di Hu","Lichao Mou","Qingzhong Wang","Junyu Gao","Yuansheng Hua","Dejing Dou","Xiao Xiang Zhu"]
 people_links: ["https://dtaoo.github.io/","https://scholar.google.com/citations?user=7k8GAaEAAAAJ&hl=zh-CN","https://scholar.google.com/citations?user=e7ZsEIcAAAAJ&hl=zh-CN","https://scholar.google.com/citations?user=y1nOY24AAAAJ&hl=en","https://scholar.google.com/citations?user=brRZFlwAAAAJ&hl=en","https://scholar.google.ca/citations?user=qBHsQ04AAAAJ&hl=en","https://scholar.google.com/citations?user=CNakdIgAAAAJ&hl=en"]
 
-
+weight: 4
 image:
   caption: 
   focal_point: Smart

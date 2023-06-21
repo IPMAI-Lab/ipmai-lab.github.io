@@ -11,6 +11,7 @@ people_links: ["https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=en","h
 institution: ["nwpu","ruc","ucas"]
 institution_links: ["http://iopen.nwpu.edu.cn/","http://ai.ruc.edu.cn/","https://www.ucas.ac.cn/"]
 # desc: We are a group of researchers working in multi-modal learning from the Renmin University of China and University of Rochester.
+weight: 7
 image:
   caption: 
   focal_point: Smart

@@ -3,7 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/dataset/01_lfav/</loc>
+  </url>
+  
+  <url>
     <loc>/project/1_the-national-natural-science-foundation-of-china/</loc>
+  </url>
+  
+  <url>
+    <loc>/dataset/02_music-avqa/</loc>
   </url>
   
   <url>
@@ -11,11 +19,23 @@
   </url>
   
   <url>
+    <loc>/dataset/advance/</loc>
+  </url>
+  
+  <url>
     <loc>/project/3_audio-visual-speaker-diarization/</loc>
   </url>
   
   <url>
+    <loc>/dataset/disco/</loc>
+  </url>
+  
+  <url>
     <loc>/project/4_cross-modal-transfer-learning-with-interpretability/</loc>
+  </url>
+  
+  <url>
+    <loc>/dataset/music-synthetic-dataset/</loc>
   </url>
   
   <url>
@@ -24,6 +44,14 @@
   
   <url>
     <loc>/project/6_cyberdog/</loc>
+  </url>
+  
+  <url>
+    <loc>/dataset/realistic-music-dailylife-dataset/</loc>
+  </url>
+  
+  <url>
+    <loc>/dataset/shuttersong-dataset/</loc>
   </url>
   
   <url>
@@ -127,27 +155,15 @@
   </url>
   
   <url>
-    <loc>/topic_types/3/</loc>
-  </url>
-  
-  <url>
     <loc>/publication_types/3/</loc>
   </url>
   
   <url>
+    <loc>/topic_types/3/</loc>
+  </url>
+  
+  <url>
     <loc>/publication_types/9/</loc>
-  </url>
-  
-  <url>
-    <loc>/dataset/advance/</loc>
-  </url>
-  
-  <url>
-    <loc>/dataset/disco/</loc>
-  </url>
-  
-  <url>
-    <loc>/dataset/01_lfav/</loc>
   </url>
   
   <url>
@@ -423,14 +439,6 @@
   </url>
   
   <url>
-    <loc>/dataset/02_music-avqa/</loc>
-  </url>
-  
-  <url>
-    <loc>/dataset/music-synthetic-dataset/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/neil-m-robertson/</loc>
   </url>
   
@@ -468,10 +476,6 @@
   
   <url>
     <loc>/authors/qingzhong-wang/</loc>
-  </url>
-  
-  <url>
-    <loc>/dataset/realistic-music-dailylife-dataset/</loc>
   </url>
   
   <url>
@@ -524,10 +528,6 @@
   
   <url>
     <loc>/authors/shilei-wen/</loc>
-  </url>
-  
-  <url>
-    <loc>/dataset/shuttersong-dataset/</loc>
   </url>
   
   <url>

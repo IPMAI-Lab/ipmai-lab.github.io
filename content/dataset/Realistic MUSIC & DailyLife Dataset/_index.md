@@ -8,6 +8,6 @@ web_link: https://gewu-lab.github.io/CSOL_TPAMI2021/
 image:
   caption: 
   focal_point: Smart
-
+weight: 6
 rating: 2021_10_1
 ---
