@@ -1,6 +1,37 @@
 +++
 height = "600px"
 
+[[item]]
+    title = "2023-07-07"
+    content = "Welcome to GeWu, HengHui&ShaoXuan"
+    font_color = "#f8f8f2"
+    align = "center"  # Choose `center`, `left`, or `right`.
+    overlay_img = "photos/welcome_henghui.jpg"
+    overlay_filter = 0.5
+
+[[item]]
+    title = "2022-06-21"
+    content = "Happy graduation, YiXin&XiaoKang :-)"
+    font_color = "#f8f8f2"
+    align = "center"  # Choose `center`, `left`, or `right`.
+    overlay_img = "photos/tuanjian2023.jpg"
+    overlay_filter = 0.5
+
+[[item]]
+    title = "2023-06-12"
+    content = "Valse 2023 in Wu Xi"
+    font_color = "#f8f8f2"
+    align = "center"  # Choose `center`, `left`, or `right`.
+    overlay_img = "photos/valse2023.jpg"
+    overlay_filter = 0.5
+
+[[item]]
+    title = "2023-06-11"
+    content = "GeLaoGuan in Wu Xi"
+    font_color = "#f8f8f2"
+    align = "center"  # Choose `center`, `left`, or `right`.
+    overlay_img = "photos/valse2023_eating.jpg"
+    overlay_filter = 0.5
 
 [[item]]
     title = "2022-08-22"
