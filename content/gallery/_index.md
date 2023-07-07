@@ -2,11 +2,19 @@
 height = "600px"
 
 [[item]]
-    title = "2023-07-07"
-    content = "Welcome to GeWu, HengHui&ShaoXuan"
+    title = "2022-06-27"
+    content = "Last Class in Tiananmen"
     font_color = "#f8f8f2"
     align = "center"  # Choose `center`, `left`, or `right`.
-    overlay_img = "photos/welcome_henghui.jpg"
+    overlay_img = "photos/tiananmen.jpg"
+    overlay_filter = 0.5
+
+[[item]]
+    title = "2023-06-21"
+    content = "Happy birthday to GeWu"
+    font_color = "#f8f8f2"
+    align = "center"  # Choose `center`, `left`, or `right`.
+    overlay_img = "photos/gewubirthday.jpg"
     overlay_filter = 0.5
 
 [[item]]
