@@ -7,7 +7,7 @@ authors:
  - Changqing Zhang
  - Di Hu 
 publication_types: ["3"]  
-publication: Computer Vision and Pattern Recognition(CVPR) Workshop 2023
+publication: International Conference on Computer Vision(ICCV) 2023
 publication_types_name: Conference Paper
 url_pdf: https://arxiv.org/abs/2302.10912
 topic_types: ["2"]
