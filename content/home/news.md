@@ -11,6 +11,12 @@ subtitle = ""
 direction_img = "boards_new.jpg"
 
 [[item]]
+    title = "[14-07-2023] One paper accepted by ICCV 2023."
+    subtitle = "Congrats to Andong!"
+    subtitle_color = ""
+    link = ""
+
+[[item]]
     title = "[18-05-2023] One paper accepted by Interspeech."
     subtitle = "Congrats to Guangyao and Yixin!"
     subtitle_color = ""
