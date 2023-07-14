@@ -2,7 +2,7 @@
 height = "600px"
 
 [[item]]
-    title = "2022-06-27"
+    title = "2023-06-27"
     content = "Last Class in Tiananmen"
     font_color = "#f8f8f2"
     align = "center"  # Choose `center`, `left`, or `right`.
