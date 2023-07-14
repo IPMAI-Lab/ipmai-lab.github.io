@@ -9,8 +9,8 @@ authors:
  - Dejing Dou
 
 publication_types: ["3"]  
-publication: arXiv
-publication_types_name: Preprint  
+publication: International Conference on Computer Vision(ICCV) 2023
+publication_types_name: Conference Paper  
 url_pdf: https://arxiv.org/abs/2203.04668
 topic_types: ["0"]
 topic_types_name: Uncategorized
