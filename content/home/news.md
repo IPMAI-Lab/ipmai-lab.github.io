@@ -11,6 +11,12 @@ subtitle = ""
 direction_img = "boards_new.jpg"
 
 [[item]]
+    title = "[14-07-2023] We won the Third Prize in Mobile Robot Grasping and Navigation Challenge."
+    subtitle = "Congrats to Xincheng and Wenke!"
+    subtitle_color = ""
+    link = ""
+
+[[item]]
     title = "[14-07-2023] One paper accepted by ICCV 2023."
     subtitle = "Congrats to Andong!"
     subtitle_color = ""
