@@ -11,6 +11,12 @@ subtitle = ""
 direction_img = "boards_new.jpg"
 
 [[item]]
+    title = "[26-07-2023] Two papers accepted by ACM MM."
+    subtitle = "Congrats to Guangyao, Wenxuan, Yixin and Wenke!"
+    subtitle_color = ""
+    link = ""
+
+[[item]]
     title = "[14-07-2023] We won the Third Prize in Mobile Robot Grasping and Navigation Challenge."
     subtitle = "Congrats to Xincheng and Wenke!"
     subtitle_color = ""
@@ -52,7 +58,7 @@ direction_img = "boards_new.jpg"
     subtitle_color = "#808080"
     link = ""
 [[item]]
-    title = "[25-11-2022] One papers accepted by JAG 2022."
+    title = "[25-11-2022] One paper accepted by JAG 2022."
     subtitle = "Congrats to all the co-authors!"
     subtitle_color = "#808080"
     link = "publication"
