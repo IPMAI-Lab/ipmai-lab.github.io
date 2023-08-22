@@ -5,8 +5,8 @@ authors:
  - Wenxuan Hou
  - Di Hu
 publication_types: ["1"]  
-publication:   
-publication_types_name: ACM Multimedia(ACM MM) 2023  
+publication: ACM Multimedia(ACM MM) 2023
+publication_types_name: Conference Paper  
 url_pdf: https://arxiv.org/abs/2308.05421  
 topic_types: ["0"]
 topic_types_name: Uncategorized
