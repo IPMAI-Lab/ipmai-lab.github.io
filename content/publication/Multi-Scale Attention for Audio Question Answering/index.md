@@ -5,9 +5,9 @@ authors:
  - Yixin Xu
  - Di Hu
 publication_types: ["1"]  
-publication: Interspeech 2023
+publication: Interspeech 2023 <b>Oral Presentation</b> 
 publication_types_name: Conference Paper  
-url_pdf: https://ayameyao.github.io
+url_pdf: https://arxiv.org/abs/2305.17993
 url_code: https://ayameyao.github.io
 url_project: https://ayameyao.github.io/
 topic_types: ["2"]
