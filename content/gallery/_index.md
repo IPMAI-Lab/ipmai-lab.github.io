@@ -2,6 +2,14 @@
 height = "600px"
 
 [[item]]
+    title = "2023-08-01"
+    content = "Welcome Javier to visit GeWu Lab"
+    font_color = "#f8f8f2"
+    align = "center"  # Choose `center`, `left`, or `right`.
+    overlay_img = "photos/javier.jpg"
+    overlay_filter = 0.5
+
+[[item]]
     title = "2023-06-27"
     content = "Last Class in Tiananmen"
     font_color = "#f8f8f2"

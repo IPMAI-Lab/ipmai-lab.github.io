@@ -6,7 +6,7 @@ authors:
 
 superuser: true
 
-role: Assistant Professor (tenure-track)
+role: Associate Professor (tenure-track)
 
 organizations:
 - name: Gaoling School of Artificial Intelligence
