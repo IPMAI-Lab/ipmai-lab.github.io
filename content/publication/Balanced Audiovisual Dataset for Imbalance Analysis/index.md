@@ -1,8 +1,8 @@
 ---  
 title: "Balanced Audiovisual Dataset for Imbalance Analysis"  
 authors:  
- - Wenke Xia
- - Xu Zhao
+ - Wenke Xia*
+ - Xu Zhao*
  - Xincheng Pang
  - Changqing Zhang
  - Di Hu 
