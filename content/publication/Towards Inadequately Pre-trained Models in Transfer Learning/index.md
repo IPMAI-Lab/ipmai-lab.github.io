@@ -3,10 +3,10 @@ title: "Towards Inadequately Pre-trained Models in Transfer Learning"
 authors:  
  - Andong Deng 
  - Xingjian Li
- - Zhibing Li
  - Di Hu
+ - Tianyang Wang
+ - Haoyi Xiong
  - Chengzhong Xu
- - Dejing Dou
 
 publication_types: ["3"]  
 publication: International Conference on Computer Vision(ICCV) 2023
