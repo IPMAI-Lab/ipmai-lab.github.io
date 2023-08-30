@@ -1,7 +1,6 @@
 ---
 title: "Towards Long Form Audio-visual Video Understanding"  
 authors:  
-
  - Wenxuan Hou*
  - Guangyao Li*
  - Yapeng Tian

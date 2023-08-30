@@ -2,7 +2,7 @@
 title: "Temporal Relational Modeling with Self-Supervision for Action Segmentation"  
 authors:  
  - Dong Wang  
- - Di Hu*
+ - Di Hu
  - Xingjian Li  
  - Dejing Dou 
 publication_types: ["1"]  

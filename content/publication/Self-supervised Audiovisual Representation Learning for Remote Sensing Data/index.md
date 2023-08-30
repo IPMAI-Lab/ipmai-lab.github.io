@@ -3,7 +3,7 @@ title: "Self-supervised Audiovisual Representation Learning for Remote Sensing D
 authors:  
  - Konrad Heidler  
  - Lichao Mou  
- - Di Hu*
+ - Di Hu
  - Pu Jin  
  - Guangyao Li  
  - Chuang Gan  

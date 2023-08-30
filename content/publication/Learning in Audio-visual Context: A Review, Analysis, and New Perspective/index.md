@@ -7,7 +7,7 @@ authors:
  - Xuelong Li
 publication: Preprint
 publication_types: ["3"] 
-publication_types_name: Preprint
+publication_types_name: arXiv
 url_pdf: https://arxiv.org/pdf/2208.09579.pdf
 url_project: https://gewu-lab.github.io/audio-visual-learning/
 topic_types: ["0"]

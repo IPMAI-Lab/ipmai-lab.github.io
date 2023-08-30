@@ -4,7 +4,7 @@ authors:
  - Xuelong Li
  - Di Hu
  - Xiaoqiang Lu 
-publication_types: ["9"]  
+publication_types: ["1"]  
 publication: International Conference on Computer Vision(ICCV) 2017   
 publication_types_name: Conference Paper  
 url_pdf: https://dtaoo.github.io/papers/2017_image2song.pdf  

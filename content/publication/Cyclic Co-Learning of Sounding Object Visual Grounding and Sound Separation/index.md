@@ -2,7 +2,7 @@
 title: "Cyclic Co-Learning of Sounding Object Visual Grounding and Sound Separation"  
 authors:  
  - Yapeng Tian  
- - Di Hu*  
+ - Di Hu
  - Chenliang Xu  
 publication_types: ["1"]  
 publication: Computer Vision and Pattern Recognition(CVPR) 2021   

@@ -7,7 +7,6 @@ authors:
  - Di Hu  
  - Christoph Meinel 
  - Haojin Yang
- - Wanli Ouyang  
 publication_types: ["2"]  
 publication: Transactions on Machine Learning Research(TMLR) 2023
 publication_types_name: Journal paper

@@ -8,8 +8,9 @@ authors:
  - Neil M Robertson  
  - David A Clifton  
  - Christoph Meinel  
+ - Haojin Yang
 publication_types: ["3"]  
-publication:   
+publication: arXiv
 publication_types_name: Preprint  
 url_pdf: https://arxiv.org/abs/2106.01489  
 topic_types: ["0"]

@@ -4,8 +4,8 @@ authors:
  - Zechen Bai  
  - Zhigang Wang  
  - Jian Wang  
- - Di Hu* 
- - Errui Ding* 
+ - Di Hu
+ - Errui Ding
 publication_types: ["1"]  
 publication: Computer Vision and Pattern Recognition(CVPR) 2021 <b>Oral Presentation</b>
 publication_types_name: Conference Paper  

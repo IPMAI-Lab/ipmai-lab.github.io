@@ -8,7 +8,8 @@ authors:
  - Xuelong Li  
 publication_types: ["2"]  
 publication: IEEE TRANSACTIONS ON MULTIMEDIA (TMM) 2022   
-publication_types_name: Journal Paper  
+publication_types_name: Journal Paper
+url_pdf: https://ieeexplore.ieee.org/document/9743291
 topic_types: ["2"]
 topic_types_name: topic_scene_understanding
 rating : 2022_04_01
