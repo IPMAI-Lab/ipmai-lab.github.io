@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -8,6 +8,10 @@
   
   <url>
     <loc>/project/1_the-national-natural-science-foundation-of-china/</loc>
+  </url>
+  
+  <url>
+    <loc>/dataset/02_balanced/</loc>
   </url>
   
   <url>
@@ -139,11 +143,11 @@
   </url>
   
   <url>
-    <loc>/topic_types/1/</loc>
+    <loc>/publication_types/1/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
+    <loc>/topic_types/1/</loc>
   </url>
   
   <url>
@@ -155,11 +159,11 @@
   </url>
   
   <url>
-    <loc>/topic_types/3/</loc>
+    <loc>/publication_types/3/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
+    <loc>/topic_types/3/</loc>
   </url>
   
   <url>

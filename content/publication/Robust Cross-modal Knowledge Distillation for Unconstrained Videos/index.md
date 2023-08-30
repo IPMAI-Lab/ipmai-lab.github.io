@@ -2,9 +2,10 @@
 title: "Robust Cross-modal Knowledge Distillation for Unconstrained Videos"  
 authors:  
  - Wenke Xia
- - Xu Zhao
- - Xincheng Pang
- - Changqing Zhang
+ - Xingjian Li
+ - Andong Deng
+ - Haoyi Xiong
+ - Dejing Dou
  - Di Hu 
 publication_types: ["3"]  
 publication: IEEE International Conference on Multimedia and Expo(ICME) 2023
