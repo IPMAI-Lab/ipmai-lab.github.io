@@ -7,7 +7,7 @@ authors:
  - Haoyi Xiong
  - Dejing Dou
  - Di Hu 
-publication_types: ["3"]  
+publication_types: ["1"]  
 publication: IEEE International Conference on Multimedia and Expo(ICME) 2023
 publication_types_name: Conference Paper
 url_pdf: https://arxiv.org/abs/2304.07775
