@@ -22,9 +22,10 @@ subtitle = ""
                 ]
   user_groups2 = [  # 这个Group讲被放在第二个里面, 只显示头像
                     "Undergraduate",
+                    "Alumni"
                 ]
   user_groups3 = [  # 这个Group讲被放在第二个里面, 只显示头像
-                    "Alumni"
+                    
                 ]
 [design]
   # Show user's social networking links? (true/false)
