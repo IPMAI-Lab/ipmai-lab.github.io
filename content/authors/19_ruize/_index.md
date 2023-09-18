@@ -3,7 +3,7 @@ name: Ruize Xu
 
 superuser: true
 
-# role: Since 2022
+role: Undergraduate, Since 2021
 
 website_url: https://rick-xu315.github.io  # 可以配置个人主页, 如果有的话
 
