@@ -1,5 +1,5 @@
 ---
-name: HengHui Du
+name: Henghui Du
 
 superuser: true
 
