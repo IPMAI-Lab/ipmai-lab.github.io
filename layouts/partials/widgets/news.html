@@ -20,3 +20,27 @@
         </div>
     </div>
 </div>
+<div>
+    <br>
+    <br>
+    <div style="display: flex; align-items: center;">
+        <h2>Recent works on robotics</h2>
+    </div>
+</div>
+
+<div class="row">
+
+    <div  class="col-6 mx-auto col-md-6 order-md-1" style="display: flex; align-items: center;">
+        <video width="320" height="240" controls>
+            <source src="{{ printf "img/%s" $page.Params.robotic_video | relURL }}" type="video/mp4">
+          </video>
+    </div>
+    <div  class="col-6 mx-auto col-md-6 order-md-1" style="display: flex; align-items: center;">
+        <video width="320" height="240" controls>
+            <source src="{{ printf "img/%s" $page.Params.robotic_video_2 | relURL }}" type="video/mp4">
+          </video>
+    </div>
+    <div></div>
+
+</div>
+

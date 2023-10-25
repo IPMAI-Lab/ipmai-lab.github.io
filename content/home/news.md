@@ -9,6 +9,13 @@ title = ""
 subtitle = ""
 
 direction_img = "boards_new.jpg"
+robotic_video = "open_cabinet.mp4"
+robotic_video_2 = "faucet.mp4"
+[[item]]
+    title = "[20-10-2023] One paper accepted by Pattern Recognition."
+    subtitle = "Congrats to Zequn!"
+    subtitle_color = ""
+    link = ""
 
 [[item]]
     title = "[26-07-2023] Two papers accepted by ACM MM."
