@@ -167,19 +167,19 @@
   </url>
   
   <url>
-    <loc>/topic_types/2/</loc>
-  </url>
-  
-  <url>
     <loc>/publication_types/2/</loc>
   </url>
   
   <url>
-    <loc>/topic_types/3/</loc>
+    <loc>/topic_types/2/</loc>
   </url>
   
   <url>
     <loc>/publication_types/3/</loc>
+  </url>
+  
+  <url>
+    <loc>/topic_types/3/</loc>
   </url>
   
   <url>
@@ -295,11 +295,11 @@
   </url>
   
   <url>
-    <loc>/authors/di-hu/</loc>
+    <loc>/authors/di-hu-chengze-wang-feiping-nie-xuelong-li/</loc>
   </url>
   
   <url>
-    <loc>/authors/di-hu-chengze-wang-feiping-nie-xuelong-li/</loc>
+    <loc>/authors/di-hu/</loc>
   </url>
   
   <url>
@@ -355,6 +355,10 @@
   </url>
   
   <url>
+    <loc>/authors/han-zhang/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/hang-zhou/</loc>
   </url>
   
@@ -368,6 +372,10 @@
   
   <url>
     <loc>/authors/heinrich-dinkel/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/geometric-inspired-graph-based-incomplete-multi-view-clustering/</loc>
   </url>
   
   <url>
@@ -744,6 +752,10 @@
   
   <url>
     <loc>/authors/zechen-bai/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/zequn-yang/</loc>
   </url>
   
   <url>
