@@ -1,5 +1,5 @@
 ---  
-title: "Heterogeneous Scene Analysis via Self-supervised Audiovisual Learning"  
+title: "Geometric-Inspired Graph-based Incomplete Multi-view Clustering"  
 authors:  
  - Zequn Yang
  - Han Zhang
