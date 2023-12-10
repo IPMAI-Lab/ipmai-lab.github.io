@@ -293,14 +293,6 @@
     </item>
     
     <item>
-      <title>Prompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer</title>
-      <link>/publication/spherediffusion-spherical-geometry-aware-distortion-resilient-diffusion-model/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/spherediffusion-spherical-geometry-aware-distortion-resilient-diffusion-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Revisiting Pre-training in Audio-Visual Learning</title>
       <link>/publication/revisiting-pre-training-in-audio-visual-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -345,6 +337,14 @@
       <link>/publication/sepfusion_-finding-optimal-fusion-structures-for-visual-sound-separation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/publication/sepfusion_-finding-optimal-fusion-structures-for-visual-sound-separation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SphereDiffusion: Spherical Geometry-aware Distortion Resilient Diffusion Model</title>
+      <link>/publication/spherediffusion-spherical-geometry-aware-distortion-resilient-diffusion-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/spherediffusion-spherical-geometry-aware-distortion-resilient-diffusion-model/</guid>
       <description></description>
     </item>
     
