@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Weisong Liu | GeWu-Lab</title>
+    <title>Weisong Liu* | GeWu-Lab</title>
     <link>/authors/weisong-liu/</link>
       <atom:link href="/authors/weisong-liu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Weisong Liu</description>
+    <description>Weisong Liu*</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>copyright © 2023 GeWu-Lab</copyright>
     <image>
       <url>/img/logo.png</url>
-      <title>Weisong Liu</title>
+      <title>Weisong Liu*</title>
       <link>/authors/weisong-liu/</link>
     </image>
     

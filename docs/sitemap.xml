@@ -159,15 +159,11 @@
   </url>
   
   <url>
-    <loc>/topic_types/1/</loc>
-  </url>
-  
-  <url>
     <loc>/publication_types/1/</loc>
   </url>
   
   <url>
-    <loc>/topic_types/2/</loc>
+    <loc>/topic_types/1/</loc>
   </url>
   
   <url>
@@ -175,11 +171,15 @@
   </url>
   
   <url>
-    <loc>/topic_types/3/</loc>
+    <loc>/topic_types/2/</loc>
   </url>
   
   <url>
     <loc>/publication_types/3/</loc>
+  </url>
+  
+  <url>
+    <loc>/topic_types/3/</loc>
   </url>
   
   <url>
@@ -299,11 +299,11 @@
   </url>
   
   <url>
-    <loc>/authors/di-hu-chengze-wang-feiping-nie-xuelong-li/</loc>
+    <loc>/authors/di-hu/</loc>
   </url>
   
   <url>
-    <loc>/authors/di-hu/</loc>
+    <loc>/authors/di-hu-chengze-wang-feiping-nie-xuelong-li/</loc>
   </url>
   
   <url>
@@ -527,6 +527,10 @@
   </url>
   
   <url>
+    <loc>/publication/spherediffusion-spherical-geometry-aware-distortion-resilient-diffusion-model/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/pu-jin/</loc>
   </url>
   
@@ -612,6 +616,10 @@
   
   <url>
     <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/tao-wu/</loc>
   </url>
   
   <url>
@@ -727,11 +735,19 @@
   </url>
   
   <url>
+    <loc>/authors/xintao-wang/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/xu-zhao/</loc>
   </url>
   
   <url>
     <loc>/authors/xuelong-li/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/xuewei-li/</loc>
   </url>
   
   <url>
@@ -748,6 +764,10 @@
   
   <url>
     <loc>/authors/yapeng-tian/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/ying-shan/</loc>
   </url>
   
   <url>
@@ -788,6 +808,10 @@
   
   <url>
     <loc>/authors/zhiwu-lu/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/zhongang-qi/</loc>
   </url>
   
   <url>
