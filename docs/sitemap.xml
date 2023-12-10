@@ -159,15 +159,11 @@
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
-  </url>
-  
-  <url>
     <loc>/topic_types/1/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
+    <loc>/publication_types/1/</loc>
   </url>
   
   <url>
@@ -175,11 +171,15 @@
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
+    <loc>/publication_types/2/</loc>
   </url>
   
   <url>
     <loc>/topic_types/3/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
   </url>
   
   <url>
