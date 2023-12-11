@@ -13,6 +13,13 @@ robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
 [[item]]
+    title = "[11-12-2023] Yake has begun her visiting to CMU. Best wishes!"
+    subtitle = "Best wishes to Yake!"
+    subtitle_color = ""
+    link = ""
+
+
+[[item]]
     title = "[10-12-2023] Two paper accepted by AAAI."
     subtitle = "Congrats to Yaoting and Guangyao!"
     subtitle_color = ""
