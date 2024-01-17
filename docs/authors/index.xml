@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>copyright © 2023 GeWu-Lab</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>copyright © 2024 GeWu-Lab</copyright>
     <image>
       <url>/img/logo.png</url>
       <title>Authors</title>
@@ -300,18 +300,18 @@ He got his undergraduate degree at &lt;a href=&#34;https://www.ruc.edu.cn/&#34; 
     </item>
     
     <item>
-      <title>Di Hu - Chengze Wang - Feiping Nie - Xuelong Li</title>
-      <link>/authors/di-hu-chengze-wang-feiping-nie-xuelong-li/</link>
+      <title>Di Hu</title>
+      <link>/authors/di-hu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/di-hu-chengze-wang-feiping-nie-xuelong-li/</guid>
+      <guid>/authors/di-hu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Di Hu*</title>
-      <link>/authors/di-hu/</link>
+      <title>Di Hu - Chengze Wang - Feiping Nie - Xuelong Li</title>
+      <link>/authors/di-hu-chengze-wang-feiping-nie-xuelong-li/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/di-hu/</guid>
+      <guid>/authors/di-hu-chengze-wang-feiping-nie-xuelong-li/</guid>
       <description></description>
     </item>
     
@@ -356,7 +356,7 @@ He got his undergraduate degree at &lt;a href=&#34;https://www.ruc.edu.cn/&#34; 
     </item>
     
     <item>
-      <title>Guangyao Li*</title>
+      <title>Guangyao Li</title>
       <link>/authors/guangyao-li/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/guangyao-li/</guid>
@@ -484,7 +484,7 @@ He got his undergraduate degree at &lt;a href=&#34;https://www.ruc.edu.cn/&#34; 
     </item>
     
     <item>
-      <title>Lichao Mou*</title>
+      <title>Lichao Mou</title>
       <link>/authors/lichao-mou/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/lichao-mou/</guid>
@@ -860,7 +860,7 @@ He got his undergraduate degree at &lt;a href=&#34;https://www.ruc.edu.cn/&#34; 
     </item>
     
     <item>
-      <title>Yake Wei</title>
+      <title>Yake Wei*</title>
       <link>/authors/yake-wei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/yake-wei/</guid>
