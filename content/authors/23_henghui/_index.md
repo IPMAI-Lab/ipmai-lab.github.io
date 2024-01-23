@@ -11,4 +11,4 @@ role: Since 2023
 user_groups:
 - Master Students
 ---
-Henghui is currently a student of Dalian University of Technology, majoring in computer science.He will join [GeWu-Lab](https://dtaoo.github.io/group.html) to study for a master’s degree in 2023.He is interested in multimodal learning mechanism and talking face generation, and will conduct research in these aspects in the future.
+Henghui is a first-year master student in GeWu-Lab at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/), advised by [Prof. Di Hu](https://dtaoo.github.io/). He has got his bachelor's degree in [Dalian University of Technology](https://www.dlut.edu.cn/) in 2023. Currently his research instrests focus on Large language Models and cross-modal generation.
