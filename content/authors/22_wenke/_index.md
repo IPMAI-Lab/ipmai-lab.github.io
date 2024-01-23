@@ -11,5 +11,5 @@ role: Since 2022
 user_groups:
 - Ph.D Students
 ---
-Wenke is an Ph.D student since 2022 Fall at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/), advised by [Prof. Di Hu](https://dtaoo.github.io/). His research interests include reinforcement learning and embodied AI. Now, he focus on building a generalizable manipulation policy with computer vision.
+Wenke is a Ph.D student since 2022 Fall at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/), advised by [Prof. Di Hu](https://dtaoo.github.io/). His research interests include reinforcement learning and embodied AI. Now, he focus on building a generalizable manipulation policy with computer vision.
 

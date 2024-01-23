@@ -11,4 +11,4 @@ role: Since 2023
 user_groups:
 - Master Students
 ---
-Ruoxuan is currently a student of the [College of Computer Science and Electronic Engineering](http://csee.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/). He will received his bachelor’s degree and join [GeWu-Lab](https://gewu-lab.github.io/) for a master’s degree in 2023. He is interested in multi-modal learning and embodied AI.
+Ruoxuan is a first-year master student in GeWu-Lab at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/), advised by [Prof. Di Hu](https://dtaoo.github.io/). He is interested in multi-modal learning and embodied AI.
