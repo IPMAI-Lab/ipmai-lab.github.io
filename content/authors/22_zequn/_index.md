@@ -11,4 +11,6 @@ website_url: https://bjlfzs.github.io//  # 可以配置个人主页, 如果有�
 user_groups:
 - Ph.D Students
 ---
-Zequn is a first-year Ph.D student in the [GeWu-Lab](https://dtaoo.github.io/group.html), [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). He currently focuses on multi-view clustering with machine learning methods. And he is also interested in the theoretical comprehension and optimization of multimodal learning.
+
+Zequn is a second-year Ph.D. student at [GeWu-Lab](https://dtaoo.github.io/group.html), [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). He currently focuses on the mechanism of multi-modal learning, including theoretical comprehension and algorithm design. He also has a keen interest in developing efficient and effective multi-view clustering techniques utilizing machine learning methods.
+
