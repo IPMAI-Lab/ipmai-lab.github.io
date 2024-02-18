@@ -7,8 +7,9 @@ authors:
  - Zhigang Wang
  - Bin Zhao
  - Di Hu  
+ - Xuelong Li
 publication_types: ["1"]  
-publication: arXiv
+publication: 2024 IEEE International Conference on Robotics and Automation (ICRA2024)
 publication_types_name: Conference Paper  
 url_pdf: https://arxiv.org/abs/2311.02847
 url_code: https://github.com/GeWu-Lab/LLM_articulated_object_manipulation/tree/main
