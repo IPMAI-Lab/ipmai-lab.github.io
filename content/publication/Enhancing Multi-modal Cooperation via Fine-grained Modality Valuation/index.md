@@ -6,10 +6,11 @@ authors:
  - Zihe Wang
  - Di Hu
 publication_types: ["3"]  
-publication: arXiv
+publication: CVPR 2024
 publication_types_name: Preprint
-url_pdf: https://arxiv.org/pdf/2309.06255.pdf
+url_pdf: https://arxiv.org/abs/2309.06255
+url_code: https://github.com/GeWu-Lab/Valuate-and-Enhance-Multimodal-Cooperation
 topic_types: ["2"]
 topic_types_name: Audio-Visual Learning
-rating : 2023_09_13
+rating : 2024_03_13
 ---  
