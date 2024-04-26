@@ -2,6 +2,14 @@
 height = "600px"
 
 [[item]]
+    title = "2024-04-26"
+    content = "Guangyao passed the defense of his Ph.D. thesis."
+    font_color = "#f8f8f2"
+    align = "center"  # Choose `center`, `left`, or `right`.
+    overlay_img = "photos/PHDPhotos.jpg"
+    overlay_filter = 0.5
+
+[[item]]
     title = "2023-08-01"
     content = "Welcome Javier to visit GeWu Lab"
     font_color = "#f8f8f2"

@@ -13,6 +13,12 @@ robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
 [[item]]
+    title = "[24-04-2024] Guangyao passed the defense of his Ph.D. thesis."
+    subtitle = "Congrats to Guangyao!"
+    subtitle_color = ""
+    link = ""
+
+[[item]]
     title = "[28-02-2024] One paper accepted by CVPR."
     subtitle = "Congrats to Yake and Ruoxuan!"
     subtitle_color = ""
