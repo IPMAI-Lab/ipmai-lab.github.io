@@ -9,8 +9,9 @@ authors:
  - Ying Shan
  - Xi Li
 publication_types: ["3"]  
-publication: The 38th Annual AAAI Conference on Artificial Intelligence(AAAI 2024)
+publication: Association for the Advancement of Artificial Intelligence(AAAI) 2024
 publication_types_name: AAAI
+url_pdf: https://ojs.aaai.org/index.php/AAAI/article/view/28429/28838
 topic_types: ["2"]
 topic_types_name: Audio-Visual Learning
 rating : 2023_12_10

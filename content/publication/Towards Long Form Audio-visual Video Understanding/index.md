@@ -6,7 +6,7 @@ authors:
  - Yapeng Tian
  - Di Hu 
 publication_types: ["3"]  
-publication: arXiv
+publication: arXiv 2306.09431
 publication_types_name: Preprint
 url_pdf: https://arxiv.org/abs/2306.09431
 url_code:  https://github.com/GeWu-Lab/LFAV

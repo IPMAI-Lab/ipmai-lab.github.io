@@ -6,7 +6,7 @@ authors:
  - Zihe Wang
  - Di Hu
 publication_types: ["3"]  
-publication: CVPR 2024
+publication: Computer Vision and Pattern Recognition(CVPR) 2024
 publication_types_name: Preprint
 url_pdf: https://arxiv.org/abs/2309.06255
 url_code: https://github.com/GeWu-Lab/Valuate-and-Enhance-Multimodal-Cooperation

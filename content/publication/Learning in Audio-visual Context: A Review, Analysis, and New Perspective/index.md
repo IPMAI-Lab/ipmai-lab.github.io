@@ -6,9 +6,9 @@ authors:
  - Yapeng Tian
  - Xuelong Li
 publication_types: ["3"]
-publication: arXiv
+publication: arXiv 2208.09579
 publication_types_name: Preprint 
-url_pdf: https://arxiv.org/pdf/2208.09579.pdf
+url_pdf: https://arxiv.org/abs/2208.09579
 url_project: https://gewu-lab.github.io/audio-visual-learning/
 topic_types: ["0"]
 topic_types_name: Uncategorized

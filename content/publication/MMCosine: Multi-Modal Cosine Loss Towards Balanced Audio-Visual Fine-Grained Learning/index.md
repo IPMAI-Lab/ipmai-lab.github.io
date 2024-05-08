@@ -6,9 +6,9 @@ authors:
  - Shi-xiong Zhang 
  - Di Hu
 publication_types: ["1"]  
-publication: ICASSP 2023
+publication: International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2023
 publication_types_name: Conference Paper  
-url_pdf: https://arxiv.org/pdf/2303.05338.pdf
+url_pdf: https://arxiv.org/abs/2303.05338
 url_code: https://gewu-lab.github.io/MMCosine/ 
 url_project: https://github.com/GeWu-Lab/MMCosine_ICASSP23
 topic_types: ["2"]

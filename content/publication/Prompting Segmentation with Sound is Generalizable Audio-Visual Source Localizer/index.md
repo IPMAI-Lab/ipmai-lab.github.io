@@ -8,7 +8,7 @@ authors:
  - Di Hu
  - Xi Li
 publication_types: ["3"]  
-publication: The 38th Annual AAAI Conference on Artificial Intelligence(AAAI 2024)
+publication: Association for the Advancement of Artificial Intelligence(AAAI) 2024
 publication_types_name: AAAI
 url_pdf: https://arxiv.org/pdf/2309.07929.pdf
 url_code: https://github.com/GeWu-Lab/Generalizable-Audio-Visual-Segmentation

@@ -10,7 +10,7 @@ authors:
  - Christoph Meinel  
  - Haojin Yang
 publication_types: ["3"]  
-publication: arXiv
+publication: arXiv 2106.01489
 publication_types_name: Preprint  
 url_pdf: https://arxiv.org/abs/2106.01489  
 topic_types: ["0"]
