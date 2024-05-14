@@ -13,6 +13,18 @@ robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
 [[item]]
+    title = "[10-05-2024] One paper accepted by RSS 2024."
+    subtitle = "Congrats to Wenke!"
+    subtitle_color = ""
+    link = ""
+
+[[item]]
+    title = "[10-05-2024] One paper accepted by CVPR 2023 Workshop."
+    subtitle = "Congrats to Guangyao and Henghui!"
+    subtitle_color = ""
+    link = ""
+
+[[item]]
     title = "[06-05-2024] One paper accepted by ICML."
     subtitle = "Congrats to Yake!"
     subtitle_color = ""
