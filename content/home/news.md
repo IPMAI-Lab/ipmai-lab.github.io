@@ -19,7 +19,7 @@ robotic_video_2 = "faucet.mp4"
     link = ""
 
 [[item]]
-    title = "[10-05-2024] One paper accepted by CVPR 2023 Workshop."
+    title = "[10-05-2024] One paper accepted by CVPR 2024 Workshop."
     subtitle = "Congrats to Guangyao and Henghui!"
     subtitle_color = ""
     link = ""
