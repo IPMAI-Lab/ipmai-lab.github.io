@@ -12,4 +12,4 @@ user_groups:
 - Research Assistant
 ---
 
-Yufan is a 2024 master's graduate from Zhejiang University. She is passionate about image generation, cross-model generation and multimodal learning.
+Yufan is a 2024 master's graduate from Zhejiang University. She is passionate about image generation, cross-modal generation and multimodal learning.
