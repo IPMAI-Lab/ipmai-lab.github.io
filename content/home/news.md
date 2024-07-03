@@ -13,6 +13,24 @@ robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
 [[item]]
+    title = "[30-06-2024] Four paper accepted by ECCV."
+    subtitle = "Congrats to Yaoting and Yake!"
+    subtitle_color = ""
+    link = ""
+
+[[item]]
+    title = "[30-06-2024] One paper accepted by IROS."
+    subtitle = "Congrats to Xincheng and Wenke!"
+    subtitle_color = ""
+    link = ""
+
+[[item]]
+    title = "[26-05-2024] One paper accepted by TOMM."
+    subtitle = "Congrats to Wenxuan!"
+    subtitle_color = ""
+    link = ""
+
+[[item]]
     title = "[14-05-2024] One paper accepted by RSS 2024."
     subtitle = "Congrats to Wenke!"
     subtitle_color = ""
