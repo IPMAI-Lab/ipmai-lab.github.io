@@ -163,10 +163,6 @@
   </url>
   
   <url>
-    <loc>/authors/24_yufan/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/admin/</loc>
   </url>
   
@@ -179,19 +175,19 @@
   </url>
   
   <url>
-    <loc>/topic_types/1/</loc>
-  </url>
-  
-  <url>
     <loc>/publication_types/1/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
+    <loc>/topic_types/1/</loc>
   </url>
   
   <url>
     <loc>/topic_types/2/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
   </url>
   
   <url>
@@ -240,6 +236,10 @@
   
   <url>
     <loc>/authors/bolei-zhou/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/can-textual-semantics-mitigate-sounding-object-segmentationpreference/</loc>
   </url>
   
   <url>
@@ -320,6 +320,10 @@
   
   <url>
     <loc>/publication/dense-multimodal-fusion-for-hierarchically-joint-representation/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/depth-helps-improving-pre-trained-rgb-based-policy-with-depth-information-injection/</loc>
   </url>
   
   <url>
@@ -408,6 +412,10 @@
   
   <url>
     <loc>/publication/heterogeneous-scene-analysis-via-self-supervised-audiovisual-learning/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/honggang-zhang/</loc>
   </url>
   
   <url>
@@ -535,6 +543,10 @@
   </url>
   
   <url>
+    <loc>/authors/peiwen-sun/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/peiyu-liu/</loc>
   </url>
   
@@ -580,6 +592,10 @@
   
   <url>
     <loc>/publication/quantifying-and-enhancing-multi-modal-robustness-with-modality-preference/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/ref-avs-refer-and-segment-objects-in-audio-visual-scenes/</loc>
   </url>
   
   <url>
@@ -804,6 +820,10 @@
   
   <url>
     <loc>/authors/yixin-xu/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/yuanchao-li/</loc>
   </url>
   
   <url>
