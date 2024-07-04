@@ -13,7 +13,7 @@ robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
 [[item]]
-    title = "[30-06-2024] Four paper accepted by ECCV."
+    title = "[30-06-2024] Four papers accepted by ECCV."
     subtitle = "Congrats to Yaoting and Yake!"
     subtitle_color = ""
     link = ""
