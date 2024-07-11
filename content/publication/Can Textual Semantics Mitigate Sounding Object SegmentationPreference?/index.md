@@ -1,8 +1,8 @@
 ---  
 title: "Can Textual Semantics Mitigate Sounding Object SegmentationPreference?"  
 authors:  
- - Yaoting Wang
- - Peiwen Sun
+ - Yaoting Wang*
+ - Peiwen Sun*
  - Yuanchao Li
  - Honggang Zhang
  - Di Hu

@@ -14,7 +14,7 @@ robotic_video_2 = "faucet.mp4"
 
 [[item]]
     title = "[30-06-2024] Four papers accepted by ECCV."
-    subtitle = "Congrats to Yaoting and Yake!"
+    subtitle = "Congrats to Yaoting, Peiwen, Juncheng and Yake!"
     subtitle_color = ""
     link = ""
 
@@ -26,7 +26,7 @@ robotic_video_2 = "faucet.mp4"
 
 [[item]]
     title = "[26-05-2024] One paper accepted by TOMM."
-    subtitle = "Congrats to Wenxuan!"
+    subtitle = "Congrats to Wenxuan and Guangyao!"
     subtitle_color = ""
     link = ""
 

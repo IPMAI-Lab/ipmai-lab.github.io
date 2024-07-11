@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yaoting Wang | GeWu-Lab</title>
+    <title>Yaoting Wang* | GeWu-Lab</title>
     <link>/authors/yaoting-wang/</link>
       <atom:link href="/authors/yaoting-wang/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yaoting Wang</description>
+    <description>Yaoting Wang*</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>copyright © 2024 GeWu-Lab</copyright>
     <image>
       <url>/img/logo.png</url>
-      <title>Yaoting Wang</title>
+      <title>Yaoting Wang*</title>
       <link>/authors/yaoting-wang/</link>
     </image>
     
@@ -17,6 +17,14 @@
       <link>/publication/can-textual-semantics-mitigate-sounding-object-segmentationpreference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/publication/can-textual-semantics-mitigate-sounding-object-segmentationpreference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Textual Semantics Mitigate Sounding Object SegmentationPreference?</title>
+      <link>/publication/stepping-stones-a-progressive-training-strategy-for-audio-visual-semantic-segmentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/stepping-stones-a-progressive-training-strategy-for-audio-visual-semantic-segmentation/</guid>
       <description></description>
     </item>
     
