@@ -247,10 +247,6 @@
   </url>
   
   <url>
-    <loc>/publication/stepping-stones-a-progressive-training-strategy-for-audio-visual-semantic-segmentation/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
   </url>
   
@@ -668,6 +664,10 @@
   
   <url>
     <loc>/publication/spherediffusion-spherical-geometry-aware-distortion-resilient-diffusion-model/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/stepping-stones-a-progressive-training-strategy-for-audio-visual-semantic-segmentation/</loc>
   </url>
   
   <url>

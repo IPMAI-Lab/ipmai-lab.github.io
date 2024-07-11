@@ -1,5 +1,5 @@
 ---  
-title: "Can Textual Semantics Mitigate Sounding Object SegmentationPreference?"  
+title: "Stepping Stones: A Progressive Training Strategy for Audio-Visual Semantic Segmentation"  
 authors:  
  - Juncheng Ma
  - Peiwen Sun
