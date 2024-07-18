@@ -8,8 +8,9 @@ authors:
 publication_types: ["1"]  
 publication: European Conference on Computer Vision(ECCV) 2024
 publication_types_name: Conference Paper  
-url_pdf: 
+url_pdf: http://arxiv.org/abs/2407.11820
 url_code: https://github.com/GeWu-Lab/Stepping-Stones
+url_project: https://gewu-lab.github.io/stepping_stones/
 topic_types: ["3"]
 # topic_types_name: topic_hash
 rating : 2024_06_30

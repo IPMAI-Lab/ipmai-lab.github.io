@@ -13,6 +13,18 @@ robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
 [[item]]
+    title = "[17-07-2024] One paper is selected as Hugging Face Daily Paper!"
+    subtitle = "Congrats to Yaoting!"
+    subtitle_color = ""
+    link = ""
+
+[[item]]
+    title = "[16-07-2024] Two papers accepted by ACM-MM."
+    subtitle = "Congrats to Guangyao, Henghui and Peiwen!"
+    subtitle_color = ""
+    link = ""
+
+[[item]]
     title = "[30-06-2024] Four papers accepted by ECCV."
     subtitle = "Congrats to Yaoting, Peiwen, Juncheng and Yake!"
     subtitle_color = ""
