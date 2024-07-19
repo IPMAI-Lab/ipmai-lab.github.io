@@ -13,7 +13,7 @@ robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
 [[item]]
-    title = "[17-07-2024] One paper is selected as Hugging Face Daily Paper!"
+    title = "[17-07-2024] Ref-AVS is selected as Hugging Face Daily Paper!"
     subtitle = "Congrats to Yaoting!"
     subtitle_color = ""
     link = ""
