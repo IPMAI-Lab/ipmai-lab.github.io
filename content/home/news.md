@@ -12,6 +12,13 @@ direction_img = "boards_new.jpg"
 robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
+
+[[item]]
+    title = "[17-08-2024] Bias_in_AVS is selected as Oral by ACM MM!"
+    subtitle = "Congrats to Peiwen!"
+    subtitle_color = ""
+    link = ""
+
 [[item]]
     title = "[17-07-2024] Ref-AVS is selected as Hugging Face Daily Paper!"
     subtitle = "Congrats to Yaoting!"

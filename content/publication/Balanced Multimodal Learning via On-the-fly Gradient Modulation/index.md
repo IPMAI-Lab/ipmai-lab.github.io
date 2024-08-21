@@ -1,5 +1,5 @@
 ---  
-title: "Balanced Multimodal Learning via On-the-fly Gradient Modulation"  
+title: "Balanced Multimodal Learning via On-the-fly Gradient Modulation (CVPR Oral)"  
 authors:  
  - Xiaokang Peng*  
  - Yake Wei*  
