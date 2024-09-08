@@ -14,6 +14,12 @@ robotic_video_2 = "faucet.mp4"
 
 
 [[item]]
+    title = "[05-09-2024] Two papers accepted by CoRL!"
+    subtitle = "Congrats to Wenke, Ruoxuan and Jingxian!"
+    subtitle_color = ""
+    link = ""
+
+[[item]]
     title = "[17-08-2024] Bias_in_AVS is selected as Oral by ACM MM!"
     subtitle = "Congrats to Peiwen!"
     subtitle_color = ""
