@@ -179,11 +179,11 @@
   </url>
   
   <url>
-    <loc>/topic_types/1/</loc>
+    <loc>/publication_types/1/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
+    <loc>/topic_types/1/</loc>
   </url>
   
   <url>
@@ -447,6 +447,10 @@
   </url>
   
   <url>
+    <loc>/authors/jingxian-lu/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/jingyuan-wen/</loc>
   </url>
   
@@ -468,6 +472,10 @@
   
   <url>
     <loc>/publication/kinematic-aware-prompting-for-generalizable-articulated-object-manipulation-with-llms/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/koi-accelerating-online-imitation-learning-via-hybrid-key-state-guidance/</loc>
   </url>
   
   <url>
@@ -560,6 +568,10 @@
   
   <url>
     <loc>/authors/peizhen-zhu/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/play-to-the-score-stage-guided-dynamic-multi-sensory-fusion-for-robotic-manipulation/</loc>
   </url>
   
   <url>
@@ -744,6 +756,10 @@
   
   <url>
     <loc>/authors/weiyao-lin/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/wenke-ma/</loc>
   </url>
   
   <url>

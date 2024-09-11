@@ -11,8 +11,8 @@ authors:
 publication_types: ["1"]  
 publication: The 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS) 2024
 publication_types_name: Conference Paper  
-url_pdf: 
-url_code: 
+url_pdf: https://arxiv.org/abs/2408.05107
+url_code: https://gewu-lab.github.io/DepthHelps-IROS2024/
 topic_types: ["3"]
 # topic_types_name: topic_hash
 rating : 2024_06_28
