@@ -187,11 +187,11 @@
   </url>
   
   <url>
-    <loc>/topic_types/2/</loc>
+    <loc>/publication_types/2/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
+    <loc>/topic_types/2/</loc>
   </url>
   
   <url>
@@ -240,6 +240,10 @@
   
   <url>
     <loc>/authors/bolei-zhou/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/boosting-audio-visual-question-answering-via-key-semantic-aware-cues/</loc>
   </url>
   
   <url>
@@ -416,6 +420,10 @@
   
   <url>
     <loc>/authors/heinrich-dinkel/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/henghui-du/</loc>
   </url>
   
   <url>
