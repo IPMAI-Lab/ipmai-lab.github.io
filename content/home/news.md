@@ -14,6 +14,13 @@ robotic_video_2 = "faucet.mp4"
 
 
 [[item]]
+    title = "[05-09-2024] ''Play to the Score'' is selected as Oral by CoRL!"
+    subtitle = "Congrats to Ruoxuan!"
+    subtitle_color = ""
+    link = ""
+
+
+[[item]]
     title = "[05-09-2024] Two papers accepted by CoRL!"
     subtitle = "Congrats to Wenke, Ruoxuan and Jingxian!"
     subtitle_color = ""

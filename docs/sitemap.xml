@@ -167,6 +167,18 @@
   </url>
   
   <url>
+    <loc>/authors/25_dongnuan/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/25_youquan/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/25_yumiao/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
   </url>
   
@@ -179,11 +191,11 @@
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
+    <loc>/topic_types/1/</loc>
   </url>
   
   <url>
-    <loc>/topic_types/1/</loc>
+    <loc>/publication_types/1/</loc>
   </url>
   
   <url>
@@ -195,11 +207,11 @@
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
+    <loc>/topic_types/3/</loc>
   </url>
   
   <url>
-    <loc>/topic_types/3/</loc>
+    <loc>/publication_types/3/</loc>
   </url>
   
   <url>
@@ -624,6 +636,10 @@
   
   <url>
     <loc>/publication/ref-avs-refer-and-segment-objects-in-audio-visual-scenes/</loc>
+  </url>
+  
+  <url>
+    <loc>/dataset/00_refavs/</loc>
   </url>
   
   <url>

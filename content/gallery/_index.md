@@ -2,6 +2,14 @@
 height = "600px"
 
 [[item]]
+    title = "2024-09-10"
+    content = "Happy Teachers' Day"
+    font_color = "#f8f8f2"
+    align = "center"  # Choose `center`, `left`, or `right`.
+    overlay_img = "photos/24_teacher.jpg"
+    overlay_filter = 0.5
+
+[[item]]
     title = "2024-05-21"
     content = "Happy birthday to GeWu"
     font_color = "#f8f8f2"
