@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -163,7 +163,15 @@
   </url>
   
   <url>
+    <loc>/authors/24_menglu/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/24_yuchen/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/24_yuexing/</loc>
   </url>
   
   <url>
@@ -199,11 +207,11 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
+    <loc>/topic_types/2/</loc>
   </url>
   
   <url>
-    <loc>/topic_types/2/</loc>
+    <loc>/publication_types/2/</loc>
   </url>
   
   <url>
@@ -576,6 +584,10 @@
   
   <url>
     <loc>/publication/not-all-knowledge-is-created-equal/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/on-the-fly-modulation-for-balanced-multimodal-learning/</loc>
   </url>
   
   <url>

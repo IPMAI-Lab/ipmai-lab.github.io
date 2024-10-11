@@ -11,4 +11,4 @@ role: Since 2025
 user_groups:
 - Ph.D Students
 ---
-Youquan is a PhD student at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/).  He received his bachelor's degree in [School of Artificial Intelligence, Xidian University]( https://sai.xidian.edu.cn/) in 2025. Now his research interests focus on the audio-visual co-editor.
+Youquan is a PhD student at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/).  He received his bachelor's degree in [School of Artificial Intelligence, Xidian University]( https://sai.xidian.edu.cn/) in 2025. Now his research interests focus on the audio and visual.
