@@ -13,14 +13,14 @@ robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
 [[item]]
-    title = "[05-09-2024] One paper accepted by TPAMI
+    title = "[05-09-2024] One paper accepted by TPAMI"
     subtitle = "Congrats to Yake and other co-authors!"
     subtitle_color = ""
     link = ""
     
     
 [[item]]
-    title = "[05-09-2024] Play to the Score'' is selected as Oral by CoRL!
+    title = "[05-09-2024] Play to the Score'' is selected as Oral by CoRL!"
     subtitle = "Congrats to Ruoxuan!"
     subtitle_color = ""
     link = ""
