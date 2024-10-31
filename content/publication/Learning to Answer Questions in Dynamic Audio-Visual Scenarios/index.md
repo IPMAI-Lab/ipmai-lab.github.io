@@ -14,6 +14,7 @@ url_pdf: https://arxiv.org/abs/2203.14072
 url_code: https://github.com/GeWu-Lab/MUSIC-AVQA  
 url_project: https://gewu-lab.github.io/MUSIC-AVQA/  
 topic_types: ["2"]
+is_oral: True
 topic_types_name: topic_scene_understanding
 rating : 2022_03_04
 ---  

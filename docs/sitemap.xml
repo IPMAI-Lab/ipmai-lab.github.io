@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -199,11 +199,11 @@
   </url>
   
   <url>
-    <loc>/topic_types/1/</loc>
+    <loc>/publication_types/1/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
+    <loc>/topic_types/1/</loc>
   </url>
   
   <url>
@@ -224,6 +224,10 @@
   
   <url>
     <loc>/publication_types/9/</loc>
+  </url>
+  
+  <url>
+    <loc>/dataset/00_refavs/</loc>
   </url>
   
   <url>
@@ -648,10 +652,6 @@
   
   <url>
     <loc>/publication/ref-avs_-refer-and-segment-objects-in-audio-visual-scenes/</loc>
-  </url>
-  
-  <url>
-    <loc>/dataset/00_refavs/</loc>
   </url>
   
   <url>

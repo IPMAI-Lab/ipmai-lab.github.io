@@ -9,7 +9,7 @@
       {{ with .Content }}
       <div class="article-style">{{ . }}</div>
       {{ end }}
-      <p>(* represents the equal contribution)</p>
+      <p>(* represents the equal contribution,  <span style="color: red;">red title represents oral paper</span>)</p>
       {{/* Array of distinct years. */}}
       {{ range .Pages.ByDate.Reverse }}
         {{ $year := print (.Date.Format "2006") }}

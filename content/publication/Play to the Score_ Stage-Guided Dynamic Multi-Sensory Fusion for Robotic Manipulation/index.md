@@ -6,6 +6,7 @@ authors:
  - Wenke Ma  
  - Xuelong Li  
 publication_types: ["9"]  
+is_oral: True
 publication: Conference on Robot Learning (CoRL)  
 publication_types_name: Conference Paper  
 url_pdf: https://arxiv.org/pdf/2408.01366
