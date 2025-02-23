@@ -1,6 +1,15 @@
 +++
 height = "600px"
 
+
+[[item]]
+    title = "2024-12-20"
+    content = "Universal Studios"
+    font_color = "#f8f8f2"
+    align = "center"  # Choose `center`, `left`, or `right`.
+    overlay_img = "photos/huanqiu.jpg"
+    overlay_filter = 0.5
+
 [[item]]
     title = "2024-09-20"
     content = "Last Class in Tiananmen"

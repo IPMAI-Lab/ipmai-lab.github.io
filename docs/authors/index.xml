@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>copyright © 2024 GeWu-Lab</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>copyright © 2025 GeWu-Lab</copyright>
     <image>
       <url>/img/logo.png</url>
       <title>Authors</title>
@@ -141,28 +141,10 @@ He got his undergraduate degree at &lt;a href=&#34;https://www.ruc.edu.cn/&#34; 
     
     <item>
       <title></title>
-      <link>/authors/23_jianghan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/23_jianghan/</guid>
-      <description>&lt;p&gt;个人简介, 控制在600-800个英文字符之内&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/authors/23_jingxian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/23_jingxian/</guid>
       <description>&lt;p&gt;Jingxian is a fourth-year student of &lt;a href=&#34;http://ai.ruc.edu.cn/&#34; target=&#34;_blank&#34;&gt;Gaoling School of Artificial Intelligence&lt;/a&gt;, &lt;a href=&#34;https://www.ruc.edu.cn/&#34; target=&#34;_blank&#34;&gt;Renmin University of China&lt;/a&gt;. He is interested in robot manipulation and perception from interaction.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/23_jinlin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/23_jinlin/</guid>
-      <description>&lt;p&gt;个人简介, 控制在600-800个英文字符之内&lt;/p&gt;
 </description>
     </item>
     
@@ -198,7 +180,7 @@ He got his undergraduate degree at &lt;a href=&#34;https://www.ruc.edu.cn/&#34; 
       <link>/authors/23_ruoxuan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/23_ruoxuan/</guid>
-      <description>&lt;p&gt;Ruoxuan is a first-year master student in GeWu-Lab at &lt;a href=&#34;http://ai.ruc.edu.cn/&#34; target=&#34;_blank&#34;&gt;Gaoling School of Artificial Intelligence, Renmin University of China&lt;/a&gt;, advised by &lt;a href=&#34;https://dtaoo.github.io/&#34; target=&#34;_blank&#34;&gt;Prof. Di Hu&lt;/a&gt;. He is interested in multi-modal learning and embodied AI.&lt;/p&gt;
+      <description>&lt;p&gt;Ruoxuan is a first-year master student in GeWu-Lab at &lt;a href=&#34;http://ai.ruc.edu.cn/&#34; target=&#34;_blank&#34;&gt;Gaoling School of Artificial Intelligence, Renmin University of China&lt;/a&gt;, advised by &lt;a href=&#34;https://dtaoo.github.io/&#34; target=&#34;_blank&#34;&gt;Prof. Di Hu&lt;/a&gt;. He is interested in multi-modal embodied AI.&lt;/p&gt;
 </description>
     </item>
     
@@ -310,10 +292,26 @@ He got his undergraduate degree at &lt;a href=&#34;https://www.ruc.edu.cn/&#34; 
     </item>
     
     <item>
+      <title>Ao Shen</title>
+      <link>/authors/ao-shen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/ao-shen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ben Dai</title>
       <link>/authors/ben-dai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/ben-dai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bin Fang</title>
+      <link>/authors/bin-fang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/bin-fang/</guid>
       <description></description>
     </item>
     
@@ -550,6 +548,14 @@ He got his undergraduate degree at &lt;a href=&#34;https://www.ruc.edu.cn/&#34; 
     </item>
     
     <item>
+      <title>Jiangyu Hu</title>
+      <link>/authors/jiangyu-hu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/jiangyu-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jingxian Lu</title>
       <link>/authors/jingxian-lu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -614,7 +620,7 @@ He got his undergraduate degree at &lt;a href=&#34;https://www.ruc.edu.cn/&#34; 
     </item>
     
     <item>
-      <title>Lichao Mou</title>
+      <title>Lichao Mou*</title>
       <link>/authors/lichao-mou/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/lichao-mou/</guid>
@@ -814,6 +820,14 @@ He got his undergraduate degree at &lt;a href=&#34;https://www.ruc.edu.cn/&#34; 
     </item>
     
     <item>
+      <title>Tianci Gao</title>
+      <link>/authors/tianci-gao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/tianci-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tianyang Wang</title>
       <link>/authors/tianyang-wang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -862,7 +876,7 @@ He got his undergraduate degree at &lt;a href=&#34;https://www.ruc.edu.cn/&#34; 
     </item>
     
     <item>
-      <title>Wenke Xia*</title>
+      <title>Wenke Xia</title>
       <link>/authors/wenke-xia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/wenke-xia/</guid>
@@ -1030,7 +1044,7 @@ He got his undergraduate degree at &lt;a href=&#34;https://www.ruc.edu.cn/&#34; 
     </item>
     
     <item>
-      <title>Yapeng Tian</title>
+      <title>Yapeng Tian*</title>
       <link>/authors/yapeng-tian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/yapeng-tian/</guid>
@@ -1066,6 +1080,14 @@ He got his undergraduate degree at &lt;a href=&#34;https://www.ruc.edu.cn/&#34; 
       <link>/authors/yuansheng-hua/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/yuansheng-hua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuhao Sun</title>
+      <link>/authors/yuhao-sun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/yuhao-sun/</guid>
       <description></description>
     </item>
     

@@ -12,6 +12,19 @@ direction_img = "boards_new.jpg"
 robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
+
+[[item]]
+    title = "[05-02-2025] Yake was awarded the Baidu Scholarship(Global Top 10)"
+    subtitle = "Congrats to Yake!"
+    subtitle_color = ""
+    link = ""
+
+[[item]]
+    title = "[05-01-2025] One paper accepted by ICLR"
+    subtitle = "Congrats to Ruoxuan and other co-authors!"
+    subtitle_color = ""
+    link = ""
+
 [[item]]
     title = "[05-09-2024] One paper accepted by TPAMI"
     subtitle = "Congrats to Yake and other co-authors!"
