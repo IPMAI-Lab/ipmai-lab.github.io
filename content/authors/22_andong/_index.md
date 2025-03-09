@@ -3,7 +3,7 @@ name: Andong Deng
 
 superuser: true
 
-role: Visiting Student, 2022
+role: Visiting Student, 2021-2023
 
 
 website_url: https://dengandong.github.io/  # 可以配置个人主页, 如果有的话

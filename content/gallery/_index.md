@@ -11,6 +11,32 @@ height = "600px"
     overlay_filter = 0.5
 
 [[item]]
+    title = "2024-12-14"
+    content = "Yake gave a talk in Pujiang AI Conference"
+    font_color = "#f8f8f2"
+    align = "center"  # Choose `center`, `left`, or `right`.
+    overlay_img = "photos/YakePujiangTalk.jpg"
+    overlay_filter = 0.5
+
+[[item]]
+    title = "2024-12-06"
+    content = "Communication"
+    font_color = "#f8f8f2"
+    align = "center"  # Choose `center`, `left`, or `right`.
+    overlay_img = "photos/HenghuiTalk.jpg"
+    overlay_filter = 0.5
+
+[[item]]
+    title = "2024-11-08"
+    content = "Ruoxuan gave an oral talk in CoRL 2024"
+    font_color = "#f8f8f2"
+    align = "center"  # Choose `center`, `left`, or `right`.
+    overlay_img = "photos/RuoxuanCoRLOral.jpg"
+    overlay_filter = 0.5
+
+
+
+[[item]]
     title = "2024-09-20"
     content = "Last Class in Tiananmen"
     font_color = "#f8f8f2"

@@ -11,4 +11,4 @@ role: Since 2023
 user_groups:
 - Master Students
 ---
-Henghui is a first-year master student in GeWu-Lab at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/), advised by [Prof. Di Hu](https://dtaoo.github.io/). He has got his bachelor's degree in [Dalian University of Technology](https://www.dlut.edu.cn/) in 2023. Currently his research instrests focus on Large language Models and cross-modal generation.
+Henghui is a first-year master student in GeWu-Lab at [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/), advised by [Prof. Di Hu](https://dtaoo.github.io/). He has got his bachelor's degree in [Dalian University of Technology](https://www.dlut.edu.cn/) in 2023. Currently his research instrests focus on Multi-modal Large Language Models for audio-visual scene understanding.

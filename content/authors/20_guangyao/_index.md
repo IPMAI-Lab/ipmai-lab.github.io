@@ -3,7 +3,7 @@ name: Guangyao Li
 
 superuser: true
 
-role: Since 2020
+role: Phd Graduate, 2020-2024
 
 
 website_url: https://ayameyao.github.io/  # 可以配置个人主页, 如果有的话

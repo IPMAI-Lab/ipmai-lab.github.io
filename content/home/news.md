@@ -12,9 +12,14 @@ direction_img = "boards_new.jpg"
 robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
+[[item]]
+    title = "[27-02-2025] Four papers accepted by CVPR"
+    subtitle = "Congrats to Henghui, Wenke, Chengxiang and Ruotian!"
+    subtitle_color = ""
+    link = ""
 
 [[item]]
-    title = "[05-02-2025] Yake was awarded the Baidu Scholarship(Global Top 10)"
+    title = "[05-02-2025] Yake was awarded the Baidu Scholarship (Global Top 10)"
     subtitle = "Congrats to Yake!"
     subtitle_color = ""
     link = ""

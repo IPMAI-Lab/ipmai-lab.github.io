@@ -3,7 +3,7 @@ name: Yixin Xu
 
 superuser: true
 
-role: Since 2020(Graduated in 2023)
+role: Master Graduate, 2020-2023
 
 
 # website_url: http://www.kaito.org.cn/  # 可以配置个人主页, 如果有的话

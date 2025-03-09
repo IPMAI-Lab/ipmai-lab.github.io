@@ -3,7 +3,7 @@ name: Juncheng Ma
 
 superuser: true
 
-role: Visiting Student, 2023
+role: Visiting Student, 2023-2024
 
 
 # website_url:   # 可以配置个人主页, 如果有的话
