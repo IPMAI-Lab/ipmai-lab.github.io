@@ -34,6 +34,12 @@
   weight = 60
 
 # [[main]]
+#   name = "Blog"
+#   url = "blog/"
+#   weight = 70
+
+
+# [[main]]
 #   name = "About"
 #   url = "courses/"
 #   weight = 60
