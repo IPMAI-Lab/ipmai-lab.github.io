@@ -9,7 +9,7 @@ authors:
  - Di Hu
  - Xuelong Li  
 publication_types: ["9"]  
-publication: Conference on Robot Learning (CoRL)  
+publication: Conference on Robot Learning (CoRL) 2024 
 publication_types_name: Conference Paper  
 url_pdf: https://www.arxiv.org/abs/2408.02912
 url_code: https://github.com/GeWu-Lab/Keystate_Online_Imitation

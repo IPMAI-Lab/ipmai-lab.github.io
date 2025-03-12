@@ -7,9 +7,10 @@ authors:
  - Xuelong Li  
 publication_types: ["9"]  
 is_oral: True
-publication: Conference on Robot Learning (CoRL)  
+publication: Conference on Robot Learning (CoRL) 2024  
 publication_types_name: Conference Paper  
 url_pdf: https://arxiv.org/pdf/2408.01366
+url_code: https://github.com/GeWu-Lab/MS-Bot
 topic_types: ["2"]
 topic_types_name: topic_scene_understanding
 rating : 2024_09_01

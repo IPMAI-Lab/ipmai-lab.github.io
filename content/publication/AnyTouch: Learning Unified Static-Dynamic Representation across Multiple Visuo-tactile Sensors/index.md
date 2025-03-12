@@ -12,7 +12,7 @@ authors:
 publication_types: ["1"]  
 publication: International Conference on Learning Representations(ICLR) 2025   
 publication_types_name: Conference Paper  
-url_pdf: https://arxiv.org/abs/2202.06406
+url_pdf: https://arxiv.org/abs/2502.12191
 url_code: https://github.com/GeWu-Lab/AnyTouch
 topic_types: ["2"]
 topic_types_name: topic_scene_understanding
