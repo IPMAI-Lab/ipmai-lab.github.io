@@ -243,6 +243,10 @@
   </url>
   
   <url>
+    <loc>/authors/alan-zhao/</loc>
+  </url>
+  
+  <url>
     <loc>/publication/ambient-sound-helps_-audiovisual-crowd-counting-in-extreme-conditions/</loc>
   </url>
   
@@ -303,6 +307,10 @@
   </url>
   
   <url>
+    <loc>/authors/chang-zhou/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/changqing-zhang/</loc>
   </url>
   
@@ -327,11 +335,19 @@
   </url>
   
   <url>
+    <loc>/authors/chunjie-zhang/</loc>
+  </url>
+  
+  <url>
     <loc>/publication/class-aware-sounding-objects-localization-via-audiovisual-correspondence/</loc>
   </url>
   
   <url>
     <loc>/publication/co-learn-sounding-object-visual-grounding-and-visually-indicated-sound-separation-in-a-cycle/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/crab-a-unified-audio-visual-scene-understanding-model-with-explicit-cooperation/</loc>
   </url>
   
   <url>
