@@ -10,6 +10,7 @@ Authors:
 publication_types: ["9"]
 Publication: Computer Vision and Pattern Recognition(CVPR) 2025
 publication_types_names: Conference Paper
+url_pdf: https://arxiv.org/pdf/2503.13068
 url_code: https://github.com/GeWu-Lab/Crab
 topic_types: ["2"]
 topic_types_name: topic_scene_understanding
