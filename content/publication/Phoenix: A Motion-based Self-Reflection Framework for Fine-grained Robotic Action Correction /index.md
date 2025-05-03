@@ -5,6 +5,8 @@ authors:
  - Ruoxuan Feng
  - Dong Wang
  - Di Hu
+url_pdf: https://arxiv.org/pdf/2504.14588
+url_code: https://github.com/GeWu-Lab/Motion-based-Self-Reflection-Framework
 publication_types: ["9"]  
 publication: Conference on Computer Vision and Pattern Recognition (CVPR) 2025
 publication_types_name: Conference Paper  

@@ -13,6 +13,12 @@ robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
 [[item]]
+    title = "[01-05-2025] Two paper accepted by ICML"
+    subtitle = "Congrats to Zequn and Haotian!"
+    subtitle_color = ""
+    link = ""
+
+[[item]]
     title = "[07-04-2025] Prof. Di Hu Won the MSRA StarTrack Scholar!"
     subtitle = "Congrats to Prof. Di Hu!"
     subtitle_color = ""
