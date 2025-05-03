@@ -327,6 +327,10 @@
   </url>
   
   <url>
+    <loc>/authors/chong-peng/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/christoph-meinel/</loc>
   </url>
   
@@ -467,6 +471,10 @@
   </url>
   
   <url>
+    <loc>/authors/gong-chen/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/guangyao-li/</loc>
   </url>
   
@@ -479,11 +487,23 @@
   </url>
   
   <url>
+    <loc>/authors/hang-liu/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/hang-zhou/</loc>
   </url>
   
   <url>
+    <loc>/authors/hao-lin/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/haojin-yang/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/haotian-ni/</loc>
   </url>
   
   <url>
@@ -720,6 +740,10 @@
   
   <url>
     <loc>/publication/revisiting-pre-training-in-audio-visual-learning/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/reviving-the-cooperation-dynamics-in-multimodal-transformer/</loc>
   </url>
   
   <url>
