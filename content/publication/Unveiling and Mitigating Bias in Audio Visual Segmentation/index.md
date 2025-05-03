@@ -1,10 +1,11 @@
 ---  
-title: "Unveiling and Mitigating Bias in Audio Visual Segmentation (ACM MM Oral)"  
+title: "Unveiling and Mitigating Bias in Audio Visual Segmentation"  
 authors:  
  - Peiwen Sun
  - Honggang Zhang
  - Di Hu
 publication_types: ["1"]  
+is_oral: True
 publication: ACM MM 2024
 publication_types_name: Conference Paper  
 url_code: https://gewu-lab.github.io/bias_in_AVS/
