@@ -13,7 +13,7 @@ robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
 [[item]]
-    title = "[01-05-2025] Two papers accepted by ICML"
+    title = "[01-05-2025] Two papers accepted by ICML!"
     subtitle = "Congrats to Zequn and Haotian!"
     subtitle_color = ""
     link = ""
@@ -25,32 +25,32 @@ robotic_video_2 = "faucet.mp4"
     link = ""
 
 [[item]]
-    title = "[05-04-2025] One paper accepted by SIGIR"
+    title = "[05-04-2025] One paper accepted by SIGIR!"
     subtitle = "Congrats to Ruoxuan!"
     subtitle_color = ""
     link = ""
 
 
 [[item]]
-    title = "[27-02-2025] Four papers accepted by CVPR"
+    title = "[27-02-2025] Four papers accepted by CVPR!"
     subtitle = "Congrats to Henghui, Wenke, Chengxiang and Ruotian!"
     subtitle_color = ""
     link = ""
 
 [[item]]
-    title = "[05-02-2025] Yake was awarded the Baidu Scholarship (Global Top 10)"
+    title = "[05-02-2025] Yake was awarded the Baidu Scholarship (Global Top 10)!"
     subtitle = "Congrats to Yake!"
     subtitle_color = ""
     link = ""
 
 [[item]]
-    title = "[05-01-2025] One paper accepted by ICLR"
+    title = "[05-01-2025] One paper accepted by ICLR!"
     subtitle = "Congrats to Ruoxuan and other co-authors!"
     subtitle_color = ""
     link = ""
 
 [[item]]
-    title = "[05-09-2024] One paper accepted by TPAMI"
+    title = "[05-09-2024] One paper accepted by TPAMI!"
     subtitle = "Congrats to Yake and other co-authors!"
     subtitle_color = ""
     link = ""
