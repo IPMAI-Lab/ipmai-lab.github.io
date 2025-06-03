@@ -60,4 +60,5 @@ hero_media = "logo_v1.png"
   icon_pack = "fas"
 +++
 
-IPMAI-Lab is a research group focusing on how to utilize advanced chip technology and artificial intelligence algorithms to achieve precise machine vision functions. 'IntelliPupil' and 'Microvision' symbolize the ability to see and understand the world, which implies that we aim to equip the machine with the ability of learning from multiple modalities, under the direction of doing valuable contribution to the community and society. If you are interested in our lab, you can learn more via the following ways.
+IPMAI-Lab is a research group focusing on how to utilize advanced chip technology and artificial intelligence algorithms to achieve precise machine vision functions. 
+'IntelliPupil' and 'Microvision' symbolize the ability to see and understand the world, which implies that we aim to equip the machine with the ability of learning from multiple modalities, under the direction of doing valuable contribution to the community and society. If you are interested in our lab, you can learn more via the following ways.
