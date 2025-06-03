@@ -1,8 +1,9 @@
-name：Rui Ma
+---
+name: Rui Ma
 
-superuser:true
+superuser: true
 
-role:Since 2023
+role: Since 2023
 
 user_groups:
 - Undergraduate Students
