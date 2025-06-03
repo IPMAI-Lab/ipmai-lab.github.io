@@ -18,11 +18,6 @@
   url = "publication/"
   weight = 30
 
-[[main]]
-  name = "Chinese"
-  url = "datasets/"
-  weight = 40
-
 
 #[[main]]
 #  name = "Datasets"
