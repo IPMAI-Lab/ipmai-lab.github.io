@@ -19,7 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "中文"
+  name = "Chinese"
   url = "datasets/"
   weight = 40
 
