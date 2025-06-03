@@ -44,10 +44,7 @@ hero_media = "logo_v1.png"
 #    icon_pack = "fas"
 #    icon = "download"
 # 这里的icon_pack和icon的使用方法详见`https://wowchemy.com/docs/getting-started/page-builder/` 中的icons一节
-#[[cta]]
-#  url = "https://www.zhihu.com/people/GeWu-Lab"
-#  icon_pack = "fab"
-#  icon = "zhihu"
+
   
 [[cta]]
   url = "https://github.com/IPMAI-Lab"
@@ -60,5 +57,7 @@ hero_media = "logo_v1.png"
   icon_pack = "fas"
 +++
 
+<div style="text-align: justify; text-justify: inter-word;">
 IPMAI-Lab is a research group focusing on how to utilize advanced chip technology and artificial intelligence algorithms to achieve precise machine vision functions. 
 'IntelliPupil' and 'Microvision' symbolize the ability to see and understand the world, which implies that we aim to equip the machine with the ability of learning from multiple modalities, under the direction of doing valuable contribution to the community and society. If you are interested in our lab, you can learn more via the following ways.
+</div>
