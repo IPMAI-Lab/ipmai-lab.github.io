@@ -13,8 +13,8 @@ robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
 [[item]]
-    title = "[01-05-2025] Two papers accepted by ICML!"
-    subtitle = "Congrats to Zequn and Haotian!"
+    title = "[01-06-2025] The first presentation of the Lab website!"
+    subtitle = "Congrats to everyone!"
     subtitle_color = ""
     link = ""
 
