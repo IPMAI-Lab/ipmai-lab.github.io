@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "格物实验室"
+title = "智瞳微视人工智能实验室"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "logo_v1.svg"
+hero_media = "logo_v1.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -49,6 +49,20 @@ hero_media = "logo_v1.svg"
 # Note. An optional note to show underneath the links.
 # [cta_note]
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+
+[[cta]]
+  url = "https://github.com/IPMAI-Lab"
+  icon_pack = "fab"
+  icon = "github"
+
+[email]
+  url = "feixiangdu@tlu.edu.cn"
+  icon = "envelope"
+  icon_pack = "fas"
 +++
 
-格物取自于《礼记‧大学》：“古之欲明明德于天下者，先治其国。欲治其国者，先齐其家，欲齐其家者， 先修其身。欲修其身者，先正其心。欲正其心者，先诚其意。欲诚其意者，先致其知。致知在格物。” 以格物为名，一则代表以格物的态度致知（认知），以机器多模态感知与学习为途径探究认知原理；二则代表以格物为基础做到脚踏实地，做好学术研究，增强社会价值，力所能及地做到诚意、正心、修身、齐家、治国、平天下！ 
+智瞳微视人工智能实验室者，乃一研修群体也。以精研前沿芯片技艺与人工智能算法为要务，致力于构筑精准之机器视觉系统。所谓“智瞳”，寓意智能洞察；“微视”，象征细致观微，二者合一，蕴含“以智能之瞳，观世界之微”的宏愿。
+
+夫观万象于毫厘，察乾坤于方寸，此乃吾等夙志。实验室志在赋予机器以多模态学习之能，使其能“听之以耳，观之以目，思之以心”，从而达成理解世界、服务人群之道。
+
+若君对斯室有意，愿与之同道，可循下方途径，探其奥妙。 

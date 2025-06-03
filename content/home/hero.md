@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "GeWu-Lab"
+title = "IPMAI-Lab"
 
 content_color = "#808080"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "logo_v1.svg"
+hero_media = "logo_v1.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -44,20 +44,20 @@ hero_media = "logo_v1.svg"
 #    icon_pack = "fas"
 #    icon = "download"
 # 这里的icon_pack和icon的使用方法详见`https://wowchemy.com/docs/getting-started/page-builder/` 中的icons一节
-[[cta]]
+<!-- [[cta]]
   url = "https://www.zhihu.com/people/GeWu-Lab"
   icon_pack = "fab"
-  icon = "zhihu"
+  icon = "zhihu" -->
   
 [[cta]]
-  url = "https://github.com/GeWu-Lab"
+  url = "https://github.com/IPMAI-Lab"
   icon_pack = "fab"
   icon = "github"
 
 [email]
-  url = "dihu@ruc.edu.cn"
+  url = "feixiangdu@tlu.edu.cn"
   icon = "envelope"
   icon_pack = "fas"
 +++
 
-GeWu-Lab is a research group focusing on how to make the machine perceive and understand the world as our humans, especially with multimodal messages, such as vision, sound, tactile etc. GeWu (“格物” in Chinese) is taken from [Book of Rites](https://en.wikipedia.org/wiki/Book_of_Rites), which implies that we aim to equip the machine with the ability of learning from multiple modalities, under the direction of doing valuable contribution to the community and society. If you are interested in our lab, you can learn more via the following ways.
+IPMAI-Lab is a research group focusing on how to utilize advanced chip technology and artificial intelligence algorithms to achieve precise machine vision functions. 'IntelliPupil' and 'Microvision' symbolize the ability to see and understand the world, which implies that we aim to equip the machine with the ability of learning from multiple modalities, under the direction of doing valuable contribution to the community and society. If you are interested in our lab, you can learn more via the following ways.
