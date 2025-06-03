@@ -11,4 +11,4 @@ role: Since 2022
 user_groups:
 - Undergraduate Students
 ---
-Xiang Wang is a third-year undergraduate student at School of Electrical Engineering, Tongling University. Now he has a keen interest in m medical image segmentation.
+Xiang Wang is a third-year undergraduate student at School of Electrical Engineering, Tongling University. Now he has a keen interest in medical image segmentation.
