@@ -15,10 +15,10 @@ subtitle = ""
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = [
                     "Leader",
-                    "Undergraduate Students",
                     "Ph.D Students",
                     "Master Students",
-                    "Research Assistant"
+                    "Research Assistant",
+                    "Undergraduate Students"
                 ]
   user_groups2 = [  # 这个Group讲被放在第二个里面, 只显示头像
                     "Alumni"

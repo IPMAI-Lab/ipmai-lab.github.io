@@ -11,4 +11,4 @@ role: Since 2022
 user_groups:
 - Undergraduate Students
 ---
-Shengkun Wu is a third-year undergraduate student at School of Electrical Engineering, [Tongling University](https://www.tlu.edu.cn/). Now he has a keen interest in image segmentation.
+Shengkun Wu is a third-year undergraduate student at School of Electrical Engineering, Tongling University. Now he has a keen interest in image segmentation.
