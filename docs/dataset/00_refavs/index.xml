@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&lt;b&gt;Ref&lt;/b&gt;er and Segment Objects in &lt;b&gt;A&lt;/b&gt;udio-&lt;b&gt;V&lt;/b&gt;isual &lt;b&gt;S&lt;/b&gt;cenes (Ref-AVS) Dataset | IntelliPupil Microvision Artificial Intelligence Laboratory</title>
+    <title>智瞳微视人工智能实验室 | IntelliPupil Microvision Artificial Intelligence Laboratory</title>
     <link>/dataset/00_refavs/</link>
       <atom:link href="/dataset/00_refavs/index.xml" rel="self" type="application/rss+xml" />
-    <description>&lt;b&gt;Ref&lt;/b&gt;er and Segment Objects in &lt;b&gt;A&lt;/b&gt;udio-&lt;b&gt;V&lt;/b&gt;isual &lt;b&gt;S&lt;/b&gt;cenes (Ref-AVS) Dataset</description>
+    <description>智瞳微视人工智能实验室</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>copyright © 2025 IpmAI-Lab</copyright>
     <image>
       <url>/dataset/00_refavs/featured.png</url>
-      <title>&lt;b&gt;Ref&lt;/b&gt;er and Segment Objects in &lt;b&gt;A&lt;/b&gt;udio-&lt;b&gt;V&lt;/b&gt;isual &lt;b&gt;S&lt;/b&gt;cenes (Ref-AVS) Dataset</title>
+      <title>智瞳微视人工智能实验室</title>
       <link>/dataset/00_refavs/</link>
     </image>
+    
+    <item>
+      <title>&lt;b&gt;Ref&lt;/b&gt;er and Segment Objects in &lt;b&gt;A&lt;/b&gt;udio-&lt;b&gt;V&lt;/b&gt;isual &lt;b&gt;S&lt;/b&gt;cenes (Ref-AVS) Dataset</title>
+      <link>/dataset/00_refavs/_index_old/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/dataset/00_refavs/_index_old/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>/dataset/00_refavs/</loc>
+  </url>
+  
+  <url>
     <loc>/member/</loc>
   </url>
   
@@ -35,7 +39,7 @@
   </url>
   
   <url>
-    <loc>/dataset/00_refavs/</loc>
+    <loc>/dataset/00_refavs/_index_old/</loc>
   </url>
   
   <url>
