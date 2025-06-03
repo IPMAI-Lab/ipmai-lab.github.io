@@ -44,10 +44,10 @@ hero_media = "logo_v1.png"
 #    icon_pack = "fas"
 #    icon = "download"
 # 这里的icon_pack和icon的使用方法详见`https://wowchemy.com/docs/getting-started/page-builder/` 中的icons一节
-<!-- [[cta]]
-  url = "https://www.zhihu.com/people/GeWu-Lab"
-  icon_pack = "fab"
-  icon = "zhihu" -->
+#[[cta]]
+#  url = "https://www.zhihu.com/people/GeWu-Lab"
+#  icon_pack = "fab"
+#  icon = "zhihu"
   
 [[cta]]
   url = "https://github.com/IPMAI-Lab"
