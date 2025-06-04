@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Feixiang Du | IntelliPupil Microvision Artificial Intelligence Laboratory</title>
-    <link>/authors/feixiang-du/</link>
-      <atom:link href="/authors/feixiang-du/index.xml" rel="self" type="application/rss+xml" />
-    <description>Feixiang Du</description>
+    <title>Xu Liu | IntelliPupil Microvision Artificial Intelligence Laboratory</title>
+    <link>/authors/xu-liu/</link>
+      <atom:link href="/authors/xu-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xu Liu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>copyright © 2025 IPMAI-Lab</copyright>
     <image>
       <url>/img/logo.png</url>
-      <title>Feixiang Du</title>
-      <link>/authors/feixiang-du/</link>
+      <title>Xu Liu</title>
+      <link>/authors/xu-liu/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6%E5%A4%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/publication/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6%E5%A4%B9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DoubleAANet: Enhancing Polyp Segmentation with Auxiliary Attention and Area Adaptive</title>
-      <link>/publication/doubleaanet-enhancing-polyp-segmentation-with-auxiliary-attention-and-area-adaptive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/doubleaanet-enhancing-polyp-segmentation-with-auxiliary-attention-and-area-adaptive/</guid>
       <description></description>
     </item>
     

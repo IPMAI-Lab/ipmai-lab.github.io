@@ -35,7 +35,15 @@
   </url>
   
   <url>
+    <loc>/topic_types/1/</loc>
+  </url>
+  
+  <url>
     <loc>/topic_types/2/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
   </url>
   
   <url>
@@ -44,6 +52,10 @@
   
   <url>
     <loc>/dataset/00_refavs/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6%E5%A4%B9/</loc>
   </url>
   
   <url>
@@ -95,11 +107,27 @@
   </url>
   
   <url>
+    <loc>/authors/qiang-zou/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
   </url>
   
   <url>
     <loc>/topic_types/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/wang-li/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/xu-liu/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/zheng-liu/</loc>
   </url>
   
   <url>
