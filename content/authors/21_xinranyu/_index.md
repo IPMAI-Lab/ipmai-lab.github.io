@@ -3,7 +3,7 @@ name: Xinran Yu
 
 superuser: true
 
-role: Undergraduate Graduate, 2021-2025
+role: Undergraduate Graduate,2021-2025
 
 
 user_groups:
