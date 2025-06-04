@@ -1,7 +1,7 @@
 ---
 name: Zixin Yu
 
-superuser: True
+superuser: true
 
 role: Since 2024
 
