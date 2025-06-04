@@ -8,9 +8,6 @@ height = "600px"
     align = "center"  # Choose `center`, `left`, or `right`.
     overlay_img = "photos/2024年iCAN⼤学⽣创新创业⼤赛(AI视觉检测设计挑战赛)全国总决赛二等奖.jpg"
     overlay_filter = 0.5
-    [image_processing]
-      resize = "800x"  # 设置宽度，高度自动
-      quality = 75
 
 [[item]]
     title = "2024-12-01"
