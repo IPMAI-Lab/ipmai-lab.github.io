@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IntelliPupil Microvision Artificial Intelligence Laboratory</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>IntelliPupil Microvision Artificial Intelligence Laboratory</description>
+    <title>0 | IntelliPupil Microvision Artificial Intelligence Laboratory</title>
+    <link>/publication_types/0/</link>
+      <atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>copyright © 2025 IPMAI-Lab</copyright>
     <image>
       <url>/img/logo.png</url>
-      <title>IntelliPupil Microvision Artificial Intelligence Laboratory</title>
-      <link>/</link>
+      <title>0</title>
+      <link>/publication_types/0/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/a-dual-branch-model-for-diagnosis-of-parkinsons-disease-based-on-the-independent-and-joint-features-of-the-left-and-right-gait/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/publication/a-dual-branch-model-for-diagnosis-of-parkinsons-disease-based-on-the-independent-and-joint-features-of-the-left-and-right-gait/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DoubleAANet: Enhancing Polyp Segmentation with Auxiliary Attention and Area Adaptive</title>
-      <link>/publication/doubleaanet-enhancing-polyp-segmentation-with-auxiliary-attention-and-area-adaptive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/doubleaanet-enhancing-polyp-segmentation-with-auxiliary-attention-and-area-adaptive/</guid>
       <description></description>
     </item>
     

@@ -16,7 +16,7 @@ url_pdf: https://www.preprints.org/manuscript/202309.1326/v1
 url_video:  
 url_code: 
 
-topic_types: ["2"]
+topic_types: ["1"]
 topic_types_name: topic_polyp_segmentation
 rating : 2025_06_04
 ---  
