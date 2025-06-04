@@ -186,14 +186,17 @@
 - id: topic_uncat
   translation: Uncategorized
 
-- id: topic_mechanism
-  translation: Multi-Modal Learning Mechanism
+- id: topic_polyp_segmentation
+  translation: Polyp Segmentaion
 
-- id: topic_scene_understanding
-  translation: Audio-Visual Learning
+- id: topic_semantic_segmentation
+  translation: Semantic Segmentation
 
-- id: topic_hash
-  translation: Deep Learning with hashing
+- id: topic_object_detction
+  translation: Object Detection
+
+- id: topic_hyperspectral_reconstruction
+  translation: Hyperspectral Reconstruction
 
 # Dataset details
 - id: open_dataset_site
