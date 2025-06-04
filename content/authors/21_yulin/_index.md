@@ -3,7 +3,7 @@ name: Yu Lin
 
 superuser: true
 
-role: Undergraduate Graduate,2021-2025
+role: Graduate,2021-2025
 
 
 user_groups:
