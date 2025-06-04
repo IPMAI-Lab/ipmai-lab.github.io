@@ -65,7 +65,7 @@ hero_media = "logo_v1.png"
 
   <!-- 切换按钮 -->
   <div class="sentence-switcher mt-3">
-    <button class="btn btn-outline-primary btn-sm" onclick="switchSentence('first')">英文</button>
+    <button class="btn btn-outline-primary btn-sm" onclick="switchSentence('first')">English</button>
     <button class="btn btn-outline-primary btn-sm" onclick="switchSentence('second')">中文</button>
   </div>
 </div>
