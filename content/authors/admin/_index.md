@@ -6,7 +6,7 @@ authors:
 
 superuser: true
 
-role: Senior Lecture
+role: Senior Lecturer
 
 organizations:
 - name: IntelliPupil Microvision Artificial Intelligence Laboratory
