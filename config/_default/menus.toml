@@ -29,10 +29,11 @@
 #  url = "project/"
 #  weight = 50
 
-#[[main]]
+[[main]]
 #  name = "Gallery"
-#  url = "gallery/"
-#  weight = 60
+  name = "Award"
+  url = "gallery/"
+  weight = 40
 
 # [[main]]
 #   name = "Blog"
