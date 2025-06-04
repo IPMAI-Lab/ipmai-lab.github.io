@@ -31,7 +31,7 @@
 
 [[main]]
 #  name = "Gallery"
-  name = "Award"
+  name = "Gallery"
   url = "gallery/"
   weight = 40
 
