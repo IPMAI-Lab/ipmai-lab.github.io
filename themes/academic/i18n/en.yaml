@@ -186,17 +186,15 @@
 - id: topic_uncat
   translation: Uncategorized
 
-- id: topic_polyp_segmentation
-  translation: Polyp Segmentaion
+- id: topic_mechanism
+  translation: Image Segmentation
 
-- id: topic_semantic_segmentation
-  translation: Semantic Segmentation
-
-- id: topic_object_detction
+- id: topic_scene_understanding
   translation: Object Detection
 
-- id: topic_hyperspectral_reconstruction
-  translation: Hyperspectral Reconstruction
+- id: topic_hash
+  translation: Hyperspectral Image
+
 
 # Dataset details
 - id: open_dataset_site

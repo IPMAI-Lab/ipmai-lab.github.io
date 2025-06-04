@@ -17,6 +17,6 @@ url_video:
 url_code: 
 
 topic_types: ["1"]
-topic_types_name: topic_polyp_segmentation
+topic_types_name: topic_mechanism
 rating : 2025_06_04
 ---  
