@@ -7,6 +7,6 @@ height = "600px"
     content = "十一届挑战杯安徽省铜奖"
     font_color = "#f8f8f2"
     align = "center"  # Choose `center`, `left`, or `right`.
-    overlay_img = "photos/十一届挑战杯安徽省铜奖.pdf"
+    overlay_img = "photos/十一届挑战杯安徽省铜奖.jpg"
     overlay_filter = 0.5
 +++
