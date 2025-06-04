@@ -35,19 +35,15 @@
   </url>
   
   <url>
-    <loc>/topic_types/2/</loc>
+    <loc>/topic_types/1/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/9/</loc>
+    <loc>/publication_types/3/</loc>
   </url>
   
   <url>
     <loc>/dataset/00_refavs/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/a-two-stage-framework-for-multiple-sound-source-localization/</loc>
   </url>
   
   <url>
@@ -63,11 +59,15 @@
   </url>
   
   <url>
-    <loc>/authors/di-hu/</loc>
+    <loc>/publication/doubleaanet-enhancing-polyp-segmentation-with-auxiliary-attention-and-area-adaptive/</loc>
   </url>
   
   <url>
-    <loc>/authors/heinrich-dinkel/</loc>
+    <loc>/authors/feixiang-du/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/hadi-nabipour-afrouzi/</loc>
   </url>
   
   <url>
@@ -75,11 +75,11 @@
   </url>
   
   <url>
-    <loc>/authors/mengyue-wu/</loc>
+    <loc>/authors/joel-c.-m.-than/</loc>
   </url>
   
   <url>
-    <loc>/authors/ning-xu/</loc>
+    <loc>/authors/nianxia-qian/</loc>
   </url>
   
   <url>
@@ -95,10 +95,6 @@
   </url>
   
   <url>
-    <loc>/authors/rui-qian/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
   </url>
   
@@ -107,7 +103,7 @@
   </url>
   
   <url>
-    <loc>/authors/weiyao-lin/</loc>
+    <loc>/authors/zhongliang-wang/</loc>
   </url>
   
 </urlset>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | IntelliPupil Microvision Artificial Intelligence Laboratory</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>1 | IntelliPupil Microvision Artificial Intelligence Laboratory</title>
+    <link>/topic_types/1/</link>
+      <atom:link href="/topic_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>copyright © 2025 IPMAI-Lab</copyright>
     <image>
       <url>/img/logo.png</url>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>1</title>
+      <link>/topic_types/1/</link>
     </image>
     
     <item>
