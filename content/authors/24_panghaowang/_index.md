@@ -1,7 +1,7 @@
 ---
 name: Penghao Wang
 
-superuser: true
+superuser: True
 
 role: Since 2024
 
