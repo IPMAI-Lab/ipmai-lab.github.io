@@ -11,7 +11,7 @@ authors:
 # 7 = Thesis; 8 = Patent; 9 = Workshop Paper
 publication_types: ["3"] 
 publication_types_name: Preprint   
-publication:    
+publication:  Preprint  
 url_pdf: https://www.preprints.org/manuscript/202309.1326/v1  
 url_video:  
 url_code: 
