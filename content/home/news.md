@@ -14,8 +14,8 @@ robotic_video_2 = "faucet.mp4"
 
 [[item]]
     title = "[01-06-2025] The first presentation of the Lab website!"
-    subtitle = "Congrats to everyone!"
-    subtitle_color = ""
+    subtitle = "Congrats on the official launch of the lab  website!"
+    subtitle_color = "red"
     link = ""
 
 +++
