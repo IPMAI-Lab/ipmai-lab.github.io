@@ -257,11 +257,3 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
-
-[outputs]
-  home = ["HTML", "JSON"]  # 确保支持响应式输出
-
-[params]
-  # 启用移动端优化
-  mobile_menu = true
-  mobile_navbar = true
