@@ -14,9 +14,7 @@ direction_img = "boards_new.jpg"
 robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
-[design.background]
 
-color = "#ffffff"
 
 [[item]]
     title = "[01-06-2025] The first presentation of the Lab website!"
