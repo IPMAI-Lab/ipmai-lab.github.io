@@ -93,9 +93,12 @@
       {{ end }}
   
     {{ end }}
+
+    
   
-    {{/* We cannot use SRI with Google Fonts because the CSS is dynamically generated according to the user agent. */}}
-    {{/* Hugo's htmlEscape cannot escape "|" in Google Font URIs so we implement our own escape functionality. */}}
+    /* We cannot use SRI with Google Fonts because the CSS is dynamically generated according to the user agent. 
+    Hugo's htmlEscape cannot escape "|" in Google Font URIs so we implement our own escape functionality. */
+
     {{ with ($scr.Get "google_fonts") }}
     <link rel="stylesheet" {{ printf "href=\"https://fonts.googleapis.com/css?family=%s&display=swap\"" . | replaceRE "\\|" "%7C" | safeHTMLAttr }}>
     {{ end }}
@@ -103,7 +106,7 @@
     {{ $css_comment := printf "/*!* Source Themes Academic v%s (https://sourcethemes.com/academic/) */\n" site.Data.academic.version }}
     {{ $css_bundle_head := $css_comment | resources.FromString "css/bundle-head.css" }}
     {{ $css_options := dict "targetPath" "css/academic.css" }}
-    {{- if (in (slice (getenv "HUGO_ENV") hugo.Environment) "production") -}}
+    {{- if (in (slice (getenv "HUGO_ENV") hugo.Environment) "development") -}}
       {{- $css_options = merge $css_options (dict "outputStyle" "compressed") -}}
     {{- end -}}
     {{ $sass_template := resources.Get "scss/main.scss" }}
