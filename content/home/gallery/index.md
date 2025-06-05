@@ -8,11 +8,6 @@ weight = 66  # Order that this section will appear.
 title = "Gallery"
 subtitle = ""
 
-[design.background]
-
-    
-  # Background color.
-  color = "#ffffff"
 
 +++
 
