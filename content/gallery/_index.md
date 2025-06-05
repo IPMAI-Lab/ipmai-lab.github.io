@@ -1,11 +1,12 @@
 +++
 height = "600px"
+weitht = "800px"
 
 [[item]]
     title = "2024-12-01"
     content = "2024年iCAN⼤学⽣创新创业⼤赛(AI视觉检测设计挑战赛)全国总决赛二等奖"
     font_color = "#f8f8f2"
-    align = "left"  # Choose `center`, `left`, or `right`.
+    align = "center"  # Choose `center`, `left`, or `right`.
     overlay_img = "photos/2024年iCAN⼤学⽣创新创业⼤赛(AI视觉检测设计挑战赛)全国总决赛二等奖.jpg"
     overlay_filter = 0.5
 
