@@ -520,7 +520,7 @@
     //if ($('.js-dark-toggle').length && 
     if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
       // The visitor prefers dark themes and switching to the dark variation is allowed by admin.
-      defaultThemeVariation = 1;
+      defaultThemeVariation = 0;
     } else {
       // Default to day (light) theme.
       defaultThemeVariation = 0;
