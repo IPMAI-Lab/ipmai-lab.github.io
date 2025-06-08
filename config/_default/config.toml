@@ -68,6 +68,3 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   author = "authors"
   topic_types = "topic_types"
 
-[params]
-  day_night = false
-  default_mode = "light"
