@@ -69,4 +69,5 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   topic_types = "topic_types"
 
 [params]
-  theme_default = "light"
+  day_night = false
+  default_mode = "light"
