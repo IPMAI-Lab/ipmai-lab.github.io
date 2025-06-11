@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | IntelliPupil Microvision Artificial Intelligence Laboratory</title>
-    <link>/topic_types/1/</link>
-      <atom:link href="/topic_types/1/index.xml" rel="self" type="application/rss+xml" />
-    <description>1</description>
+    <title>Aoxue Ding | IntelliPupil Microvision Artificial Intelligence Laboratory</title>
+    <link>/authors/aoxue-ding/</link>
+      <atom:link href="/authors/aoxue-ding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aoxue Ding</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>copyright © 2025 IPMAI-Lab</copyright>
     <image>
       <url>/img/logo.png</url>
-      <title>1</title>
-      <link>/topic_types/1/</link>
+      <title>Aoxue Ding</title>
+      <link>/authors/aoxue-ding/</link>
     </image>
-    
-    <item>
-      <title>DoubleAANet: Enhancing Polyp Segmentation with Auxiliary Attention and Area Adaptive</title>
-      <link>/publication/doubleaanet-enhancing-polyp-segmentation-with-auxiliary-attention-and-area-adaptive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/doubleaanet-enhancing-polyp-segmentation-with-auxiliary-attention-and-area-adaptive/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>ECMNet: Lightweight Semantic Segmentation with Efficient CNN-Mamba Network</title>
