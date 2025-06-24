@@ -47,8 +47,9 @@ hero_media = "logo_v1.png"
 
 [[cta]]
   url = "https://developers.google.cn/machine-learning/crash-course?hl=zh-cn"
-  icon = "book-open"
-  icon_pack = "fal"
+  icon_pack = "fas"
+  icon = "book"
+  
 
 [[cta]]
   url = "https://github.com/IPMAI-Lab"
