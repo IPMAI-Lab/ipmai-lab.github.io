@@ -47,8 +47,8 @@ hero_media = "logo_v1.png"
 
 [[cta]]
   url = "https://developers.google.cn/machine-learning/crash-course?hl=zh-cn"
-  icon_pack = "fas"
-  icon = "book"
+  icon_pack = "fab"
+  icon = "leanpub"
   
 
 [[cta]]
