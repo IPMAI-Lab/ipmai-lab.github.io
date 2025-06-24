@@ -45,16 +45,20 @@ hero_media = "logo_v1.png"
 #    icon = "download"
 # 这里的icon_pack和icon的使用方法详见`https://wowchemy.com/docs/getting-started/page-builder/` 中的icons一节
 
-  
+[[cta]]
+  url = "https://developers.google.cn/machine-learning/crash-course?hl=zh-cn"
+  icon = "book-open"
+  icon_pack = "fab"
+
 [[cta]]
   url = "https://github.com/IPMAI-Lab"
   icon_pack = "fab"
   icon = "github"
 
-[email]
-  url = "feixiangdu@tlu.edu.cn"
-  icon = "envelope"
-  icon_pack = "fas"
+# [email]
+#  url = "feixiangdu@tlu.edu.cn"
+#  icon = "envelope"
+#  icon_pack = "fas"
 +++
 
 
