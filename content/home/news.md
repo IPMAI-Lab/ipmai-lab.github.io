@@ -15,7 +15,11 @@ robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
 
-
+[[item]]
+    title = "[26-06-2025] One paper accepted by JCDE "
+    subtitle = "Congrats to Feixiang Du, Zhongliang Wang and other co-authors!"
+    subtitle_color = ""
+    link = ""
 
 [[item]]
     title = "[01-06-2025] The first presentation of the Lab website"
