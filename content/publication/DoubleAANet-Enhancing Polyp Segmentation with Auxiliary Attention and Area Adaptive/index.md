@@ -1,5 +1,5 @@
 ---  
-title: "DoubleAANet: Enhancing Polyp Segmentation with Auxiliary Attention and Area Adaptive"  
+title: "DoubleAANet: Auxiliary Attention and Area Adaptive Loss for Robust Polyp Segmentation"  
 authors:  
  - Feixiang Du 
  - Zhongliang Wang  
@@ -29,11 +29,11 @@ authors:
 publication_types: ["2"] 
 publication_types_name: Journal Paper   
 publication:  Journal of Computational Design and Engineering  
-url_pdf: https://www.preprints.org/manuscript/202309.1326/v1  
+url_pdf: https://doi.org/10.1093/jcde/qwaf061 
 url_video:  
-url_code: 
+url_code: https://github.com/IPMAI-Lab/DoubleAANet
 
 topic_types: ["1"]
 topic_types_name: topic_mechanism
-rating : 2025_06_04
+rating : 2025_07_02
 ---  
