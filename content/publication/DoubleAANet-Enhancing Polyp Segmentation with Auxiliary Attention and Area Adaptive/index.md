@@ -31,7 +31,7 @@ publication_types_name: Journal Paper
 publication:  Journal of Computational Design and Engineering  
 url_pdf: https://doi.org/10.1093/jcde/qwaf061 
 url_video:  
-url_code: https://github.com/IPMAI-Lab/DoubleAANet
+url_code: https://github.com/feixiangdu/DoubleAANet
 
 topic_types: ["1"]
 topic_types_name: topic_mechanism
