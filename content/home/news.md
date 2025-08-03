@@ -19,7 +19,7 @@ robotic_video_2 = "faucet.mp4"
     title = "[02-07-2025] One paper accepted by JCDE "
     subtitle = "Congrats to Feixiang Du, Zhongliang Wang and other co-authors!"
     subtitle_color = ""
-    link = ""
+    link = "https://doi.org/10.1093/jcde/qwaf061"
 
 [[item]]
     title = "[01-06-2025] The first presentation of the Lab website"
