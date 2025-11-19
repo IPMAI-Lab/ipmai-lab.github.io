@@ -11,4 +11,4 @@ role: Since 2024
 user_groups:
 - Undergraduate Students
 ---
-Ziyu Guo is a first-year undergraduate student at School of Electrical Engineering, Tongling University. Now she has a keen interest in sports,music and reading.
+Ziyu Guo is a undergraduate student at School of Electrical Engineering, Tongling University. Now she has a keen interest in sports,music and reading.
