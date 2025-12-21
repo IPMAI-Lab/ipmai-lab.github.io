@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chinese website title...</title>
+    <title>智瞳微视人工智能实验室</title>
     <link>/zh/authors/21_yulin/</link>
       <atom:link href="/zh/authors/21_yulin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Chinese website title...</description>
+    <description>智瞳微视人工智能实验室</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>copyright © 2025 IPMAI-Lab</copyright>
     <image>
       <url>/img/logo.png</url>
-      <title>Chinese website title...</title>
+      <title>智瞳微视人工智能实验室</title>
       <link>/zh/authors/21_yulin/</link>
     </image>
     

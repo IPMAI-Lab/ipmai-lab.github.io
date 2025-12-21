@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Datasets | Chinese website title...</title>
+    <title>Datasets | 智瞳微视人工智能实验室</title>
     <link>/zh/dataset/</link>
       <atom:link href="/zh/dataset/index.xml" rel="self" type="application/rss+xml" />
     <description>Datasets</description>

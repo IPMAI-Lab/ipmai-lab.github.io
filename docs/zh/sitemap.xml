@@ -381,20 +381,6 @@
   </url>
   
   <url>
-    <loc>/zh/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/"
-                />
-  </url>
-  
-  <url>
     <loc>/zh/dataset/</loc>
     <xhtml:link
                 rel="alternate"
@@ -657,6 +643,20 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/authors/zhongliang-wang/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/"
                 />
   </url>
   
