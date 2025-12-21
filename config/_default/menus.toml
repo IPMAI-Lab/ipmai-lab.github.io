@@ -6,17 +6,17 @@
 [[main]]
   name = "Home"
   url = "#hero"
-  weight = 10
+  weight = 5
 
 [[main]]
   name = "Members"
   url = "member/"
-  weight = 20
+  weight = 10
 
 [[main]]
   name = "Publications"
   url = "publication/"
-  weight = 30
+  weight = 15
 
 
 #[[main]]
@@ -32,7 +32,7 @@
 [[main]]
   name = "Gallery"
   url = "gallery/"
-  weight = 40
+  weight = 29
 
 # [[main]]
 #   name = "Blog"
