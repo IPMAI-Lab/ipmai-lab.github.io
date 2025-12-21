@@ -71,6 +71,7 @@ hero_media = "logo_v1.png"
   <!-- 切换按钮 -->
   <div class="sentence-switcher mt-3">
     <button class="btn btn-outline-primary btn-sm" onclick="switchSentence('first')"></button>
+    <button class="btn btn-outline-primary btn-sm" onclick="switchSentence('second')"></button>
   </div>
 </div>
 
