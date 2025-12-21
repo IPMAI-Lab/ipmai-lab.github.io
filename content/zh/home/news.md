@@ -14,16 +14,21 @@ direction_img = "boards_new.jpg"
 robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
+[[item]]
+    title = "[2025-10] 2025年第十九届ICAN大学生创新创业大赛（安徽赛区）荣获省二等奖 "
+    subtitle = "恭喜杨曦同学！"
+    subtitle_color = ""
+    link = "gallery"
 
 [[item]]
-    title = "[02-07-2025] One paper accepted by JCDE "
-    subtitle = "Congrats to Feixiang Du, Zhongliang Wang and other co-authors!"
+    title = "[2025-7-2] 论文被JCDE（中科院二区）接受 "
+    subtitle = "恭喜都飞翔老师、王忠良老师及其合作者！"
     subtitle_color = ""
     link = "https://doi.org/10.1093/jcde/qwaf061"
 
 [[item]]
-    title = "[01-06-2025] The first presentation of the Lab website"
-    subtitle = "Congrats on the official launch of the lab  website!"
+    title = "[2025-6-1] 实验室网站上线！"
+    subtitle = "恭喜智瞳微视人工智能实验室官方网站正式上线!"
     subtitle_color = "red"
     link = ""
 

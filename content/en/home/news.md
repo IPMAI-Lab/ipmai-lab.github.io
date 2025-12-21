@@ -14,6 +14,11 @@ direction_img = "boards_new.jpg"
 robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
+[[item]]
+    title = "[10-2025] Won the Provincial Second Prize in the Anhui Division of the 19th ICAN University Student Innovation and Entrepreneurship Competition in 2025"
+    subtitle = "Congrats to Xi Yang!"
+    subtitle_color = ""
+    link = "gallery"
 
 [[item]]
     title = "[02-07-2025] One paper accepted by JCDE "
