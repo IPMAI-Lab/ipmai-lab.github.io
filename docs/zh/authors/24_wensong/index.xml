@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chinese website title...</title>
+    <link>/zh/authors/24_wensong/</link>
+      <atom:link href="/zh/authors/24_wensong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chinese website title...</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>copyright © 2025 IPMAI-Lab</copyright>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Chinese website title...</title>
+      <link>/zh/authors/24_wensong/</link>
+    </image>
+    
+  </channel>
+</rss>
