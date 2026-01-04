@@ -7,7 +7,10 @@ weight = 1  # Order that this section will appear.
 
 title = "IPMAI-Lab"
 
-content_color = "#808080"
+# content_color = "#808080"
+
+content_color = "#505050"
+
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "logo_v1.png"
@@ -19,7 +22,8 @@ hero_media = "logo_v1.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#ffffff"
+  # color = "#ffffff"
+  color = "#F3E5DC"
 
   # Background gradient.
   # gradient_start = "#4bb4e3"
