@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Members | IntelliPupil Microvision Artificial Intelligence Laboratory</title>
+    <title>Members | IntelliPupil Microvision Artificial Intelligence Lab</title>
     <link>/member/</link>
       <atom:link href="/member/index.xml" rel="self" type="application/rss+xml" />
     <description>Members</description>
