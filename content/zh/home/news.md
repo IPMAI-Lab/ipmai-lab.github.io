@@ -10,7 +10,7 @@ subtitle = ""
 
 
 
-direction_img = "boards_new.jpg"
+direction_img = "boards_new.png"
 robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
