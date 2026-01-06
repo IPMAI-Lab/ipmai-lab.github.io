@@ -2,11 +2,19 @@
 height = "600px"
 
 [[item]]
-    title = "2025-10"
+    title = "2025-12-30"
+    content = "2025年iCAN大学生创新创业大赛“金视线杯”AI视觉检测设计挑战赛全国总决赛三等奖"
+    font_color = "#f8f8f2"
+    align = "center"  # Choose `center`, `left`, or `right`.
+    overlay_img = "photos/2025年iCAN大学生创新创业大赛“金视线杯”AI视觉检测设计挑战赛全国总决赛三等奖_马蕊.png"
+    overlay_filter = 0.5
+
+[[item]]
+    title = "2025-10-30"
     content = "2025年iCAN⼤学⽣创新创业⼤赛安徽赛区二等奖"
     font_color = "#f8f8f2"
     align = "center"  # Choose `center`, `left`, or `right`.
-    overlay_img = "photos/2024第十八届ICAN安徽省二等奖_杨曦.jpg"
+    overlay_img = "photos/2025第十八届ICAN安徽省二等奖_杨曦.jpg"
     overlay_filter = 0.5
 
 

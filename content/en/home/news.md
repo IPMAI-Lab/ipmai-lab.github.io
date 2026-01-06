@@ -15,6 +15,12 @@ robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
 [[item]]
+    title = "[30-12-2025] Won the National Third Prize of the iCAN College Student Innovation and Entrepreneurship Competition “Golden Vision Cup” AI Visual Inspection Design Challenge in 2025"
+    subtitle = "Congrats to Rui Ma!"
+    subtitle_color = ""
+    link = "gallery"
+
+[[item]]
     title = "[30-10-2025] Won the Provincial Second Prize in the Anhui Division of the 19th ICAN University Student Innovation and Entrepreneurship Competition in 2025"
     subtitle = "Congrats to Xi Yang!"
     subtitle_color = ""

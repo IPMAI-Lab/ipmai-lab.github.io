@@ -15,6 +15,12 @@ robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
 [[item]]
+    title = "[2025-12-30] 2025年iCAN大学生创新创业大赛“金视线杯”AI视觉检测设计挑战赛全国总决赛三等奖 "
+    subtitle = "恭喜马蕊同学！"
+    subtitle_color = ""
+    link = "gallery"
+
+[[item]]
     title = "[2025-10-30] 2025年第十九届ICAN大学生创新创业大赛（安徽赛区）荣获省二等奖 "
     subtitle = "恭喜杨曦同学！"
     subtitle_color = ""
