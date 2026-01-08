@@ -12,7 +12,7 @@ title = "IPMAI-Lab"
 content_color = "#505050"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "logo-v-zh.png"
+hero_media = "logo-v-mix.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
