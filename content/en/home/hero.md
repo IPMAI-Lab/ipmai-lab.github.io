@@ -13,7 +13,7 @@ content_color = "#505050"
 
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "logo_v1.png"
+hero_media = "logo-v-en.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
