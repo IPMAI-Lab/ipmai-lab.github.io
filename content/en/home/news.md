@@ -15,6 +15,13 @@ robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
 [[item]]
+    title = "[13-01-2026] One paper accepted by Science Progress"
+    subtitle = "Congrats to Shengkun Wu, Xiang Wang and other co-authors!"
+    subtitle_color = ""
+    link = ""
+
+
+[[item]]
     title = "[30-12-2025] Won the National Third Prize of the iCAN College Student Innovation and Entrepreneurship Competition “Golden Vision Cup” AI Visual Inspection Design Challenge in 2025"
     subtitle = "Congrats to Rui Ma!"
     subtitle_color = ""
@@ -27,7 +34,7 @@ robotic_video_2 = "faucet.mp4"
     link = "gallery"
 
 [[item]]
-    title = "[02-07-2025] One paper accepted by JCDE "
+    title = "[02-07-2025] One paper accepted by JCDE"
     subtitle = "Congrats to Feixiang Du, Zhongliang Wang and other co-authors!"
     subtitle_color = ""
     link = "https://doi.org/10.1093/jcde/qwaf061"

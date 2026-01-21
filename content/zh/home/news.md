@@ -15,6 +15,12 @@ robotic_video = "open_cabinet.mp4"
 robotic_video_2 = "faucet.mp4"
 
 [[item]]
+    title = "[2026-01-13] 论文被Science Progress（中科院四区）接收"
+    subtitle = "恭喜吴胜坤同学、王祥同学及其合作者！"
+    subtitle_color = ""
+    link = ""
+
+[[item]]
     title = "[2025-12-30] 2025年iCAN大学生创新创业大赛“金视线杯”AI视觉检测设计挑战赛全国总决赛三等奖 "
     subtitle = "恭喜马蕊同学！"
     subtitle_color = ""
@@ -27,7 +33,7 @@ robotic_video_2 = "faucet.mp4"
     link = "gallery"
 
 [[item]]
-    title = "[2025-07-02] 论文被JCDE（中科院二区）接受 "
+    title = "[2025-07-02] 论文被JCDE（中科院二区）接收"
     subtitle = "恭喜都飞翔老师、王忠良老师及其合作者！"
     subtitle_color = ""
     link = "https://doi.org/10.1093/jcde/qwaf061"
