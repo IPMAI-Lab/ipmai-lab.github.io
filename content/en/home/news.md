@@ -18,7 +18,7 @@ robotic_video_2 = "faucet.mp4"
     title = "[13-01-2026] One paper accepted by Science Progress"
     subtitle = "Congrats to Shengkun Wu, Xiang Wang and other co-authors!"
     subtitle_color = ""
-    link = ""
+    link = "https://doi.org/10.1177/00368504261419245"
 
 
 [[item]]

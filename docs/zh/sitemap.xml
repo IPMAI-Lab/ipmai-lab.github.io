@@ -297,20 +297,6 @@
   </url>
   
   <url>
-    <loc>/zh/publication_types/3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication_types/3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/publication_types/3/"
-                />
-  </url>
-  
-  <url>
     <loc>/zh/dataset/00_refavs/</loc>
     <xhtml:link
                 rel="alternate"
