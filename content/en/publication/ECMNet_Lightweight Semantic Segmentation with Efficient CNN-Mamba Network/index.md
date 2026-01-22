@@ -28,8 +28,8 @@ authors:
 #you need revise the 'en.yaml' to relize display(such as Hyperspectral Reconstruction)
 #################
 publication_types: ["2"] 
-publication_types_name: Science Progress  
-publication:  Sage 
+publication_types_name: Journal Paper 
+publication:  Science Progress 
 url_pdf: https://doi.org/10.1177/00368504261419245
 url_video:  
 url_code: https://github.com/feixiangdu/ECMNet
