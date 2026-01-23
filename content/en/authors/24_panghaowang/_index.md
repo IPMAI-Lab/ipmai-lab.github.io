@@ -11,4 +11,4 @@ role: Since 2024
 user_groups:
 - Undergraduate Students
 ---
-Wang Penghao, a undergraduate student from Tongling University, is now deeply fascinated by chips and harbors a strong desire to explore the intricate world of semiconductor technology.
+Penghao Wang, a undergraduate student from Tongling University, is now deeply fascinated by chips and harbors a strong desire to explore the intricate world of semiconductor technology.

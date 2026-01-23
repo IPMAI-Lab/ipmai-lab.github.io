@@ -101,6 +101,20 @@
   </url>
   
   <url>
+    <loc>/authors/23_xiyang/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/23_xiyang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/23_xiyang/"
+                />
+  </url>
+  
+  <url>
     <loc>/authors/23_zihanwang/</loc>
     <xhtml:link
                 rel="alternate"
